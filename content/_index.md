@@ -11,7 +11,7 @@ sections:
         DongLab
         Research Group
       image:
-        filename: intro.png
+        filename: welcom.jpg
       text: |
         <br>
         
