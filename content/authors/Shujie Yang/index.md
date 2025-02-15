@@ -14,12 +14,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D Student, started Sept. 2023
+role: Master Student, started Sept. 2023
 
 education:
   courses:
     - course: Bachelor of Science
-      institution: School of Physics, Peking University
+      institution: School of Mathematics and Statistics, Xi'an Jiaotong University
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -28,7 +28,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'lcj23@mails.tsinghua.edu.cn'
+    link: 'yangsj23@mails.tsinghua.edu.cn'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
