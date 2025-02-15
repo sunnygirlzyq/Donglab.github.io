@@ -13,7 +13,7 @@ sections:
       user_groups:
           - Principal Investigator
           - Administrative Assistant
-          - Grad Students
+          - Graduate Students
           - Undergraduates
       sort_by: Params.last_name
       sort_ascending: false
