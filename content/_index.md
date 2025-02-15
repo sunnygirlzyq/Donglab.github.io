@@ -1,21 +1,21 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2025-02-06
 type: landing
 
 sections:
   - block: hero
     content:
       title: |
-        Wowchemy
+        DongLab
         Research Group
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        We are a research group at **Institute of Data and Information, Tsinghua Shenzhen International Graduate School**. Our team is led by **Dr. Kaichen Dong**. Our group focuses on research topics related to **Temperature-adaptive Radiative Cooling, Moiré Photonics, Metamaterials/Metasurfaces, Zero-power Smart MEMS Sensors, and AI for Science** (see publications).
   
   - block: collection
     content:
