@@ -29,7 +29,7 @@ interests:
 education:
   courses:
     - course: Affiliate in Materials Science Division
-      institution: Stanford University
+      institution: Lawrence Berkeley National Laboratory
       supervisor: Professor Junqiao Wu
       year: 2015/07 – 2016/12
     - course: Visiting Ph.D. student in Materials Science and Engineering
@@ -72,6 +72,6 @@ user_groups:
   - Principal Investigator
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Kaichen Dong is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
