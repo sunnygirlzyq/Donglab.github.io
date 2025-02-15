@@ -56,9 +56,9 @@ social:
     link: https://scholar.google.com.hk/citations?user=yBX-oTwAAAAJ&hl=zh-CN&oi=ao
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: files/Kaichen Dong_updated 20241209.pdf
+  - icon: cv
+    icon_pack: ai
+    link: files/Kaichen Dong_updated 20241209.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
