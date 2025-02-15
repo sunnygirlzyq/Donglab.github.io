@@ -39,7 +39,7 @@ education:
     - course: Ph.D. in Precision Instrument
       institution: Tsinghua University
       year: 2012/09 – 2017/10
-      advisor：Professor Zheng You
+      advisor: Professor Zheng You
     - course: B.E. in Precision Instrument
       institution: Tsinghua University
       year: 2008/08 – 2012/07
@@ -69,7 +69,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigator
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
