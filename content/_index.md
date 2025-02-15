@@ -5,7 +5,7 @@ date: 2025-02-06
 type: landing
 
 sections:
-  - block: hero
+  - block: showcase
     content:
       title: |
         DongLab
