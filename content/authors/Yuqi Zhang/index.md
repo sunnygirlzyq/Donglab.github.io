@@ -17,6 +17,7 @@ superuser: false
 role: Master Student, started Sept. 2024
 
 education:
+  courses:
     - course: Bachelor of Artificial intelligence 
       institution: School of Artificial intelligence, Southeast University
 

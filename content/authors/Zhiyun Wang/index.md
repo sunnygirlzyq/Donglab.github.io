@@ -17,6 +17,7 @@ superuser: false
 role: Master Student, started Sept. 2024
 
 education:
+  courses:
     - course: Bachelor of Engineering
       institution: School of Mechano-Electronic Engineering, Xidian University
 

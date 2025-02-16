@@ -17,7 +17,7 @@ superuser: false
 role: Ph.D Student, started Sept. 2024
 
 education:
-    courses:
+  courses:
     - course: Bachelor of Engineering
       institution: School of Mechanical Engineering and Automation, Northeastern University
     - course: Master of Engineering 
