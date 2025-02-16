@@ -15,7 +15,6 @@ sections:
           - Administrative Assistant
           - Graduate Students
           - Undergraduates
-      sort_by: Params.last_name
       sort_ascending: false
     design:
       show_interests: false
