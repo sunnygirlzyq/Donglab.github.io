@@ -1,16 +1,13 @@
 ---
-title: "An example journal article"
+title: "Temperature-adaptive radiative coating for all-season household thermal regulation"
 authors:
 - admin
-- Robert Ford
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2021"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,13 +15,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Science*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The sky is a natural heat sink that has been extensively used for passive radiative cooling of households. A lot of focus has been on maximizing the radiative cooling power of roof coating in the hot daytime using static, cooling-optimized material properties. However, the resultant overcooling in cold night or winter times exacerbates the heating cost, especially in climates where heating dominates energy consumption. We approached thermal regulation from an all-season perspective by developing a mechanically flexible coating that adapts its thermal emittance to different ambient temperatures. The fabricated temperature-adaptive radiative coating (TARC) optimally absorbs the solar energy and automatically switches thermal emittance from 0.20 for ambient temperatures lower than 15°C to 0.90 for temperatures above 30°C, driven by a photonically amplified metal-insulator transition. Simulations show that this system outperforms existing roof coatings for energy saving in most climates, especially those with substantial seasonal variations.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
@@ -34,7 +31,7 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
