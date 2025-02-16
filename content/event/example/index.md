@@ -10,8 +10,7 @@ address:
   country: United States
 
 summary: An example event.
-abstract: 'End of year party for the Donglab
-
+abstract: 'End of year party for the Donglab'
 date: '2025-01-03T13:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 # all_day: false
