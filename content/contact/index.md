@@ -13,7 +13,7 @@ sections:
         street: Taoyuan St
         city:   Shenzhen
         region: Nanshan
-        postcode: '518000'
+        postcode: '518055'
         country: China
         country_code: CN
       directions: Room 1203A, Information Building, Tsinghua Shenzhen International Graduate School
