@@ -2,7 +2,7 @@
 title: Research
 type: landing
 layout: landing
-
+featured_image: ''
 sections:
   - block: showcase
     id: research-areas
