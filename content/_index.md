@@ -9,7 +9,6 @@ sections:
     content:
       title: |
         DongLab
-        Research Group
       image:
         filename: Intro.png
       text: |
