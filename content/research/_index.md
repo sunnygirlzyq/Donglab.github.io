@@ -4,11 +4,11 @@ type: landing
 layout: landing
 
 sections:
-  - block: grid
+  - block: showcase
     id: research-areas
     content:
       title: "Our Research Directions"
-      text: "We focus on multiple cutting-edge research areas, including adaptive cooling, moiré photonics, smart MEMS sensors, and AI-driven scientific discovery."
+      text: "We focus on multiple cutting-edge research areas, including Temperature-adaptive Radiative Cooling, Moiré Photonics, Metamaterials/Metasurfaces, Zero-power Smart MEMS Sensors, and AI for Science."
       items:
         - title: "Temperature-adaptive Radiative Cooling"
           description: "Developing materials with temperature-dependent emissivity for energy-efficient thermal regulation."
@@ -22,7 +22,7 @@ sections:
         - title: "AI for Science"
           description: "Applying AI to optimize optical structures and scientific research methodologies."
           image: "/images/research/AI4S.jpg"
-      view: grid
+      view: showcase
       columns: 2
       flip_alt_rows: true
 ---
