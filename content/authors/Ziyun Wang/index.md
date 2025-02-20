@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhiyun Wang
+title: Ziyun Wang
 
 # Full name (for SEO)
 first_name: Ziyun
