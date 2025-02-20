@@ -3,9 +3,11 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Dong Lab # Website name
-baseURL: 'https://Donglab.com/' # Website URL
-
+title: ""
+baseURL: 'https://Donglab.com/'
+# 设置 logo
+params:
+  logo: "/images/tsinghua_logo.png"
 ############################
 ## LANGUAGE
 ############################
@@ -27,11 +29,11 @@ enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
-# permalinks:
-#  authors: ''  # 禁用作者独立页面生成
-#  tags: ''     # 禁用标签独立页面生成
-#  categories: ''  # 禁用分类独立页面生成
-#  publication_types: ''  # 禁用出版物类型独立页面生成
+permalinks:
+ authors: ''  # 禁用作者独立页面生成
+ tags: ''     # 禁用标签独立页面生成
+ categories: ''  # 禁用分类独立页面生成
+ publication_types: ''  # 禁用出版物类型独立页面生成
 disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
