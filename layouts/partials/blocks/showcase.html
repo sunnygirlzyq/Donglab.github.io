@@ -1,0 +1,14 @@
+<div class="showcase">
+    <h2>{{ .content.title }}</h2>
+    <p>{{ .content.text }}</p>
+    <div class="showcase-grid">
+      {{ range .content.items }}
+      <div class="showcase-item">
+        <img src="{{ .image | relURL }}" alt="{{ .title }}">
+        <h3>{{ .title }}</h3>
+        <p>{{ .description }}</p>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+  
