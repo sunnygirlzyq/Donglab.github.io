@@ -3,7 +3,7 @@ title: Research
 type: landing
 layout: landing
 sections:
-  - block: showcase
+  - block: collections
     id: research-areas
     content:
       title: "Our Research Directions"
@@ -22,7 +22,7 @@ sections:
           description: "Applying AI to optimize optical structures and scientific research methodologies."
           image: "/images/research/ai4s.jpg"
     design:
-      view: showcase
+      view: card
       columns: 2
       flip_alt_rows: true
 ---
