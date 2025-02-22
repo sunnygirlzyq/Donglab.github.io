@@ -22,6 +22,6 @@ sections:
       show_role: true
       show_education: true
       show_courses: true
-      show_bio: true
+      show_bio: false
      
 ---

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chunjiang Li
+title: Chunjiang 
 
 # Full name (for SEO)
 first_name: Chunjiang 
