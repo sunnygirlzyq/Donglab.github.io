@@ -20,7 +20,7 @@ sections:
           image: "/research/mems/featured.jpg"
         - title: "AI for Science"
           description: "Applying AI to optimize optical structures and scientific research methodologies."
-          image: "/research/ai/featured.jpg"
+          image: "/research/ai4s/featured.jpg"
     design:
       view: showcase
       columns: 2
