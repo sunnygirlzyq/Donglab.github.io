@@ -12,7 +12,7 @@
 {{ $link := $item.Params.external_link | default $item.RelPermalink }}
 {{ $target := .target }}
 
-{{/* Get summary. */}}
+{{/* 获取 summary */}}
 {{ $summary := "" }}
 {{ if $item.Params.summary }}
   {{ $summary = $item.Params.summary | markdownify | emojify }}
@@ -30,7 +30,6 @@
 {{ else if and ($widget.design.flip_alt_rows | default true) (not (modBool $index 2)) }}
   {{ $order = "order-md-2" }}
 {{ end }}
-
 
 <div class="col-lg-12 mb-5 view-showcase">
   <div class="row align-items-center">
@@ -53,18 +52,20 @@
 
     </div>
     <div class="col-12 col-md-6 order-first {{$order}}">
-      {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
 
-      {{ with $resource }}
-        {{/* Use CSS to expand images to consistent widths rather than just Hugo as Hugo can significantly increase the
-        filesize of GIFs when processing them, e.g. 400kB --> 1.5MB */}}
-        {{ $image := . }}
-        {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "resize 540x webp" }}{{ end }}
-        {{if $do_link}}<a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{end}}
-          <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
-              alt="{{ $item.Title }}" loading="lazy" style="width: 540px; height: auto; object-fit: cover;">
-        {{if $do_link}}</a>{{end}}
-      {{end}}
+      {{/* ✅ 直接使用 `_index.md` 里的 `image`，彻底移除 `get_featured_image.html` */}}
+      {{ $image := $item.Params.image }}
+
+      {{/* ✅ 如果 `image` 为空，使用默认图片 */}}
+      {{ if not $image }}
+        {{ $image = "/images/research/default.jpg" }}
+      {{ end }}
+
+      {{ if $do_link }}<a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ end }}
+        <img src="{{ $image }}" height="auto" width="540"
+            alt="{{ $item.Title }}" loading="lazy" style="width: 540px; height: auto; object-fit: cover;">
+      {{ if $do_link }}</a>{{ end }}
+
     </div>
   </div>
 </div>
