@@ -11,16 +11,16 @@ sections:
       items:
         - title: "Temperature-adaptive Radiative Cooling"
           description: "Developing materials with temperature-dependent emissivity for energy-efficient thermal regulation."
-          image: "/research/tarc/featured.jpg"
+          image: "/images/research/tarc.jpg"
         - title: "Moiré Photonics"
           description: "Exploring twisted bilayer photonic crystals (TBPCs) for novel optical properties."
-          image: "/research/tbpc/featured.jpg"
+          image: "/images/research/tbpc.jpg"
         - title: "Zero-Power Smart MEMS Sensors"
           description: "Designing energy-efficient MEMS devices for smart city applications."
-          image: "/research/mems/featured.jpg"
+          image: "/images/research/mems.jpg"
         - title: "AI for Science"
           description: "Applying AI to optimize optical structures and scientific research methodologies."
-          image: "/research/ai4s/featured.jpg"
+          image: "/images/research/ai4s.jpg"
     design:
       view: showcase
       columns: 2
