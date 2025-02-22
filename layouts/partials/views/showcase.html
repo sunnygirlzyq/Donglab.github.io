@@ -53,21 +53,10 @@
     </div>
     <div class="col-12 col-md-6 order-first {{$order}}">
 
-      {{/* 优先使用 items 里的 image 字段，如果为空则尝试 get_featured_image.html */}}
+      {{/* 直接使用 `_index.md` 里的 `image` */}}
       {{ $image := $item.Params.image }}
 
-      {{ if not $image }}
-        {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
-        {{ with $resource }}
-          {{ if ne .MediaType.SubType "gif" }}
-            {{ $image = .Process "resize 540x webp" }}
-          {{ else }}
-            {{ $image = . }}
-          {{ end }}
-        {{ end }}
-      {{ end }}
-
-      {{/* 如果 image 仍然为空，则使用默认图片 */}}
+      {{/* 如果 `image` 为空，使用默认图片 */}}
       {{ if not $image }}
         {{ $image = "/images/research/default.jpg" }}
       {{ end }}
