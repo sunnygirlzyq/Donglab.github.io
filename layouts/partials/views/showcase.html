@@ -53,10 +53,10 @@
     </div>
     <div class="col-12 col-md-6 order-first {{$order}}">
 
-      {{/* 直接使用 `_index.md` 里的 `image`，彻底移除 `get_featured_image.html` */}}
+      {{/* ✅ 直接使用 `_index.md` 里的 `image`，彻底移除 `get_featured_image.html` */}}
       {{ $image := $item.Params.image }}
 
-      {{/* 如果 `image` 为空，使用默认图片 */}}
+      {{/* ✅ 如果 `image` 为空，使用默认图片 */}}
       {{ if not $image }}
         {{ $image = "/images/research/default.jpg" }}
       {{ end }}
