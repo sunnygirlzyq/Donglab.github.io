@@ -4,12 +4,6 @@
 {{ $icon_pack := "far" }}
 {{ $icon := "fa-file-alt" }}
 {{ $show_authors := false }}
-{{ $link := $item.RelPermalink }}
-{{ $target := "" }}
-{{ if $item.Params.external_link }}
-  {{ $link = $item.Params.external_link }}
-  {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
-{{ end }}
 {{ if eq $item.Type "post" }}
   {{ $icon = "fa-newspaper" }}
 {{ else if eq $item.Type "event" }}
@@ -27,15 +21,13 @@
 <div class="view-list view-list-item">
   <i class="{{$icon_pack}} {{$icon}} pub-icon" aria-hidden="true"></i>
 
-  {{/* ✅ 只让 `external_link` 存在时，才使用超链接 */}}
-  {{ if $item.Params.external_link }}
-    <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
-  {{ else }}
-    <span onclick="toggleNews(this)" style="cursor: pointer; font-weight: bold;">{{ $item.Title }}</span>
-  {{ end }}
+  {{/* ✅ 只显示文本标题，不添加超链接 */}}
+  <span class="news-title">{{ $item.Title }}</span>
 
-  {{/* ✅ 点击标题后展开 `summary`，而不是跳转 */}}
-  <div class="news-summary hidden">{{ $item.Summary }}</div>
+  {{/* ✅ 如果 `summary` 存在，则显示摘要 */}}
+  {{ if $item.Summary }}
+  <div class="news-summary">{{ $item.Summary }}</div>
+  {{ end }}
 
   {{ if eq $item.Type "event" }}
   <div class="article-metadata">
@@ -58,6 +50,13 @@
   {{ if $has_attachments }}
   <div class="btn-links">
     {{ partial "page_links" (dict "page" $item "is_list" 1) }}
+  </div>
+  {{ end }}
+
+  {{/* ✅ 如果 `external_link` 存在，才显示超链接 */}}
+  {{ if $item.Params.external_link }}
+  <div class="news-link">
+    <a href="{{ $item.Params.external_link }}" target="_blank" rel="noopener">Read More</a>
   </div>
   {{ end }}
 
