@@ -1,22 +1,22 @@
 <header id="site-header" class="header">
-  <nav class="navbar px-3 flex justify-left">
-    <div class="order-0 h-300">
-      <!-- Brand -->
+  <nav class="navbar px-3 flex justify-between items-center">
+    <!-- 左侧 Logo -->
+    <div class="navbar-brand">
       {{- $logo_filename := site.Params.header.navbar.logo.filename -}}
       {{- $logo_url := site.Params.header.navbar.logo.url | default site.Home.RelPermalink -}}
-      
-      <a class="navbar-brand" href="{{ $logo_url }}" title="{{ site.Title }}">
+
+      <a href="{{ $logo_url }}" title="{{ site.Title }}">
         {{- if $logo_filename -}}
-          <img src="{{ $logo_filename | relURL }}" alt="Tsinghua University Logo" height="40">
+          <img src="{{ $logo_filename | relURL }}" alt="Tsinghua University Logo" class="h-12">
         {{- else -}}
           {{ site.Title }}
         {{- end -}}
       </a>
     </div>
 
-    <!-- Navbar links (菜单栏) -->
+    <!-- 右侧菜单栏 -->
     <div class="navbar-menu ml-auto">
-      <ul class="navbar-nav">
+      <ul class="navbar-nav flex flex-row space-x-6 items-center">
         {{ range site.Menus.main }}
           <li class="nav-item">
             <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
@@ -29,7 +29,7 @@
     {{ if site.Params.header.navbar.show_search }}
       <div class="navbar-search ml-3">
         <form action="{{ "search/" | relURL }}" method="get">
-          <input type="text" name="q" placeholder="Search...">
+          <input type="text" name="q" placeholder="Search..." class="border rounded px-2 py-1">
           <button type="submit">🔍</button>
         </form>
       </div>
