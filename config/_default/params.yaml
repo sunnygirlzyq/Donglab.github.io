@@ -37,7 +37,7 @@ header:
     align: r
     show_logo: true
     logo:
-      filename: "assets/media/tsinghua_logo.jpg"
+      filename: "media/tsinghua_logo.jpg"
       url: "https://www.tsinghua.edu.cn/"  # 点击跳转的链接
     show_language: false
     show_day_night: true
