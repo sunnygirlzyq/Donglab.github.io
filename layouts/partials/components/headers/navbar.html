@@ -1,12 +1,45 @@
 <header id="site-header" class="header">
-    <nav class="navbar px-3 flex justify-left">
-      <div class="order-0 h-100">
-        <!-- Brand -->
-        <a class="navbar-brand" href="{{ site.Params.header.navbar.logo.url }}">
-            {{- $logo_filename := site.Params.header.navbar.logo.filename -}}
-            {{- if $logo_filename -}}
-              <img src="{{ $logo_filename | relURL }}" alt="Tsinghua University Logo" height="40">
-            {{- else -}}
-              {{ site.Title }}
-            {{- end -}}
-          </a>
+  <nav class="navbar px-3 flex justify-left">
+    <div class="order-0 h-300">
+      <!-- Brand -->
+      {{- $logo_filename := site.Params.header.navbar.logo.filename -}}
+      {{- $logo_url := site.Params.header.navbar.logo.url | default site.Home.RelPermalink -}}
+      
+      <a class="navbar-brand" href="{{ $logo_url }}" title="{{ site.Title }}">
+        {{- if $logo_filename -}}
+          <img src="{{ $logo_filename | relURL }}" alt="Tsinghua University Logo" height="40">
+        {{- else -}}
+          {{ site.Title }}
+        {{- end -}}
+      </a>
+    </div>
+
+    <!-- Navbar links (菜单栏) -->
+    <div class="navbar-menu ml-auto">
+      <ul class="navbar-nav">
+        {{ range site.Menus.main }}
+          <li class="nav-item">
+            <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
+          </li>
+        {{ end }}
+      </ul>
+    </div>
+
+    <!-- 搜索按钮 -->
+    {{ if site.Params.header.navbar.show_search }}
+      <div class="navbar-search ml-3">
+        <form action="{{ "search/" | relURL }}" method="get">
+          <input type="text" name="q" placeholder="Search...">
+          <button type="submit">🔍</button>
+        </form>
+      </div>
+    {{ end }}
+
+    <!-- 日夜模式切换按钮 -->
+    {{ if site.Params.header.navbar.show_day_night }}
+      <div class="navbar-theme-toggle ml-3">
+        <button id="theme-toggle">🌙</button>
+      </div>
+    {{ end }}
+  </nav>
+</header>
