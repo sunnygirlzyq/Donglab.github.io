@@ -1,5 +1,5 @@
 ---
-title: 'Zero-power Smart Thermal Management by Temperature-adaptive Radiative Coatings.'
+title: 'Radiative cooling, what is next?'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
