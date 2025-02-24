@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Chunjiang Li
+title: Shujie Yang
 
 # Full name (for SEO)
-first_name: Chunjiang 
-last_name: Li
+first_name: Shujie 
+last_name: Yang
 
 # Username (this should match the folder name)
 authors:
-  - Chunjiang Li
+  - Shujie Yang
 
 # Is this the primary user of the site?
 superuser: false
