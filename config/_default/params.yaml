@@ -50,6 +50,7 @@ header:
 footer:
   copyright:
     notice: '© {year} Tsinghua University. All rights reserved.'
+    show_powered_by: false
     license:
       enable: true
       allow_derivatives: false
