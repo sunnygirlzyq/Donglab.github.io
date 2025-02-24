@@ -1,5 +1,5 @@
 <header id="site-header" class="header">
-    <nav class="navbar px-3 flex justify-left">
+    <nav class="navbar px-3 flex justify-between items-center">
       <div class="order-0 h-100">
         <!-- 解析 params.yaml 里的 Logo -->
         {{- $logo_filename := site.Params.header.navbar.logo.filename -}}
@@ -10,13 +10,13 @@
             <img src="{{ $logo_filename | relURL }}" alt="Tsinghua University Logo" height="40">
           {{- else -}}
             {{ site.Title }}
-          {{- end -}}
+          {{- end }}
         </a>
       </div>
   
       <!-- Navbar 菜单 -->
-      <div class="navbar-menu ml-auto">
-        <ul class="navbar-nav">
+      <div class="navbar-menu">
+        <ul class="navbar-nav flex flex-row space-x-4">
           {{ range site.Menus.main }}
             <li class="nav-item">
               <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
