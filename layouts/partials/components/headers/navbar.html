@@ -7,19 +7,21 @@
 
       <a href="{{ $logo_url }}" title="{{ site.Title }}">
         {{- if $logo_filename -}}
-          <img src="{{ $logo_filename | relURL }}" alt="Tsinghua University Logo" class="h-12">
+          <img src="{{ $logo_filename | relURL }}" alt="Tsinghua University Logo" class="h-14">
         {{- else -}}
-          {{ site.Title }}
-        {{- end -}}
+          <span class="text-xl font-bold">{{ site.Title }}</span>
+        {{- end }}
       </a>
     </div>
 
     <!-- 右侧菜单栏 -->
     <div class="navbar-menu ml-auto">
-      <ul class="navbar-nav flex flex-row space-x-6 items-center">
+      <ul class="navbar-nav flex flex-row gap-x-6 items-center">
         {{ range site.Menus.main }}
           <li class="nav-item">
-            <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
+            <a class="nav-link text-lg font-medium px-3 py-2 hover:text-purple-600" href="{{ .URL | relURL }}">
+              {{ .Name }}
+            </a>
           </li>
         {{ end }}
       </ul>
@@ -28,17 +30,16 @@
     <!-- 搜索按钮 -->
     {{ if site.Params.header.navbar.show_search }}
       <div class="navbar-search ml-3">
-        <form action="{{ "search/" | relURL }}" method="get">
-          <input type="text" name="q" placeholder="Search..." class="border rounded px-2 py-1">
-          <button type="submit">🔍</button>
-        </form>
+        <a href="{{ "search/" | relURL }}" class="text-lg px-3 py-2 hover:text-purple-600">
+          🔍
+        </a>
       </div>
     {{ end }}
 
     <!-- 日夜模式切换按钮 -->
     {{ if site.Params.header.navbar.show_day_night }}
       <div class="navbar-theme-toggle ml-3">
-        <button id="theme-toggle">🌙</button>
+        <button id="theme-toggle" class="text-lg">🌙</button>
       </div>
     {{ end }}
   </nav>
