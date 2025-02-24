@@ -9,7 +9,7 @@ sections:
     content:
       title: |
         <a href="https://www.tsinghua.edu.cn/" target="_blank">
-          <img src="media/tsinghua_logo.jpg" alt="Tsinghua University Logo" height="80">
+          <img src="media/tsinghua_logo.jpg" alt="Tsinghua University Logo" height="40">
         </a>
       image:
         filename: Intro.png
