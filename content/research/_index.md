@@ -2,7 +2,7 @@
 title: Our Research
 
 # Listing view
-view: showcase
+view: card
 
 # 确保 Hugo 解析所有子页面
 content:
