@@ -8,7 +8,9 @@ sections:
   - block: hero
     content:
       title: |
-        DongLab
+        <a href="https://www.tsinghua.edu.cn/" target="_blank">
+          <img src="media/tsinghua_logo.jpg" alt="Tsinghua University Logo" height="80">
+        </a>
       image:
         filename: Intro.png
       text: |
