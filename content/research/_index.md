@@ -10,7 +10,7 @@ content:
   filters:
     folders:
       - research
-  order: asc
+  order: desc
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
