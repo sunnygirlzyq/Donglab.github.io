@@ -43,7 +43,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'content\publication\TARC-Radiative-cooling-what's-next\paper.pdf'
+url_pdf: 'content\publication\TARC-Radiative-cooling-what-is-next\paper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
