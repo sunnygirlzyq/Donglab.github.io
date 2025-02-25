@@ -50,12 +50,12 @@ abstract: ''
 summary: ''
 tags:
 - Source Themes
-featured: false
+featured: true
 
 links:
 - name: Custom Link
   url: ''
-url_pdf: ''
+url_pdf: 'content\publication\TARC-Switchable and Tunable Radiative Cooling Mechanisms, Applications, and Perspectives\zhao-et-al-2024-switchable-and-tunable-radiative-cooling-mechanisms-applications-and-perspectives.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
