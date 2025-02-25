@@ -1,39 +1,27 @@
 ---
-title: "Room-temperature multiferroicity in sliding van der Waals semiconductors with sub-0.3V switching. Submitted"
+title: "Mem-sensing at sub-Debye screening length scale. Submitted"
 authors:
- - R. Chen
- - F. Meng
- - H. Zhang   
- - Y. Liu
- - S. Yan
- - X. Xu
- - L. Zhu
- - J. Chen
- - T. Zhou
- - J. Zhou
- - F. Yang
- - P. Ci
- - X. Huang
- - X. Chen
- - T. Zhang
- - Y. Cai
+ -R. Guo
+ -L. Shan
+ -Q. Feng
+ -D. S.Ritchie
+ -J. Wan
+ -Y. Cai
+ -J. Li
+ -J. Shen
  - admin
- - Y. Liu
- - K. Watanabe
- - T. Taniguchi
- - C.-C. Lin
- - A. V. Penumatcha
- - I. Young
- - E. Chan
- - J. Wu
- - L. Yang
- - R. Ramesh    
- - J. Yao
+ - H. Zheng
+ -F. Wang
+ -Y. Cai
+ -R. Huang 
+ -K. Tang
+ -J. Wu
+
 date: "2024-12-31T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-01-01T00:00:00Z"
+publishDate: "2024-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
