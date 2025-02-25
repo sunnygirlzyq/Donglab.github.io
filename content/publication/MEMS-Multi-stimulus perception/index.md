@@ -1,5 +1,5 @@
 ---
-title: 'Zero-power Smart Thermal Management by Temperature-adaptive Radiative Coatings.'
+title: 'Multi-stimulus perception and visualization by an intelligent liquid metal-elastomer architecture'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
