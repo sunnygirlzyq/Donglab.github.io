@@ -1,21 +1,21 @@
 ---
 title: "Mem-sensing at sub-Debye screening length scale. Submitted"
 authors:
- -R. Guo
- -L. Shan
- -Q. Feng
- -D. S.Ritchie
- -J. Wan
- -Y. Cai
- -J. Li
- -J. Shen
+ - R. Guo
+ - L. Shan
+ - Q. Feng
+ - D. S.Ritchie
+ - J. Wan
+ - Y. Cai
+ - J. Li
+ - J. Shen
  - admin
  - H. Zheng
- -F. Wang
- -Y. Cai
- -R. Huang 
- -K. Tang
- -J. Wu
+ - F. Wang
+ - Y. Cai
+ - R. Huang 
+ - K. Tang
+ - J. Wu
 
 date: "2024-12-31T00:00:00Z"
 doi: ""
