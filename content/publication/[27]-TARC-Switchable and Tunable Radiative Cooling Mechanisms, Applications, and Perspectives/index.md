@@ -1,5 +1,5 @@
 ---
-title: 'Switchable and Tunable Radiative Cooling: Mechanisms, Applications, and Perspectives'
+title: 'Switchable and Tunable Radiative Cooling: Mechanisms, Applications, and Perspectives. ACS Nano'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

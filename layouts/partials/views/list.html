@@ -30,10 +30,17 @@
   <!-- 显示文章标题 -->
   <span class="article-title">{{ $item.Title }}</span>
 
-  {{/* Display the publication field (In *ACS Nano*) */}}
+  {{/* 显示publication字段 */}}
   {{ if .Params.publication }}
     <div class="publication">
       <strong>Publication:</strong> {{ .Params.publication }}
+    </div>
+  {{ end }}
+
+  {{/* 显示发布日期 */}}
+  {{ if .Params.date }}
+    <div class="publication-date">
+      <strong>Published on:</strong> {{ .Params.date | dateFormat "January 2, 2006" }}
     </div>
   {{ end }}
 
