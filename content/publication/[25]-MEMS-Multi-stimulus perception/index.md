@@ -1,5 +1,5 @@
 ---
-title: 'Multi-stimulus perception and visualization by an intelligent liquid metal-elastomer architecture'
+title: 'Multi-stimulus perception and visualization by an intelligent liquid metal-elastomer architecture.Science Advances.'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

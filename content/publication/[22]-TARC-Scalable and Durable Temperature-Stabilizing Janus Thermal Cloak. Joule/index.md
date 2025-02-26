@@ -1,48 +1,40 @@
 ---
-title: 'Single-pixel reconstructive mid-infrared micro-spectrometer'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+title: "Scalable and Durable Temperature-Stabilizing Janus Thermal Cloak. Joule"
 authors:
-  - admin
-
-# Author notes (optional)
+- Jiachen Li
+- admin
 # author_notes:
-#   - ''
+# - "Equal contribution"
+# - "Equal contribution"
 
-
-date: '2023-01-01T00:00:00Z'
-doi: ''
+date: "2023-01-01T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-01-01T00:00:00Z'
+publishDate: "2023-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['article-journal']
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Optical Express*
-publication_short: In *OE*
+publication: "*Joule*"
+publication_short: ""
 
 abstract: ''
 
 # Summary. An optional shortened abstract.
-summary: ''
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags:
+- Source Themes
+featured: false
 
-# Display this page in the Featured widget?
-featured: true
-
-# Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: 'content\publication\MIR-Spectrometer\journal-paper.pdf'
+# - name: ""
+#   url: ""
+url_pdf: 'content\publication\[24]-TBPC-Twisted moiré photonic crystal enabled optical vortex generation through bound states in the continuum. Nature Communications\s41467-023-41068-1.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -52,10 +44,10 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
+# To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
-  focal_point: ''
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  focal_point: ""
   preview_only: false
 
 # Associated Projects (optional).
@@ -63,14 +55,13 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-# projects:
-#   - example
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-# slides: example
+slides: example
 ---
 
