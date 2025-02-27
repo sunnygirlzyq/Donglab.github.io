@@ -1,5 +1,5 @@
 ---
-title: 'A Multifunctional Micro-Electro-Opto-Mechanical (MEOM) Platform Based on Phase-transition Materials. Conference on Lasers and Electro-Optics (CLEO)'
+title: 'A Multifunctional Micro-Electro-Opto-Mechanical (MEOM) Platform Based on Phase-transition Materials.Conference on Lasers and Electro-Optics (CLEO)'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -11,8 +11,10 @@ authors:
   - Huili Liu
   - Shuai Lou
   - Kyle B. Tom
-  - Hans A. Bechte
-Zheng You,3 Junqiao Wu,1,2 Jie Yao1,
+  - Hans A. Bechte 
+  - Zheng You
+  - Junqiao Wu
+  - Jie Yao
 
 # Author notes (optional)
 author_notes: ''
