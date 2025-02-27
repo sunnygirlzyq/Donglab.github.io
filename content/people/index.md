@@ -21,7 +21,6 @@ sections:
       show_social: true
       show_role: true
       show_education: true
-      show_courses: true
       show_bio: false
       show_email: true
      
