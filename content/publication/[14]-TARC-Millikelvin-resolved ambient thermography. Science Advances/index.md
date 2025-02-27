@@ -34,7 +34,7 @@ abstract: ''
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
