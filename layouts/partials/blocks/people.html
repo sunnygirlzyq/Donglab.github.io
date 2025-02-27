@@ -9,6 +9,8 @@
 {{ $show_interests := $block.design.show_interests | default true }}
 {{ $show_organizations := $block.design.show_organizations | default false }}
 {{ $show_role := $block.design.show_role | default true }}
+{{ $show_bio := $block.design.show_bio | default false}}
+{{ $show_education := $block.design.show_education | default true }}
 
 <div class="row justify-content-center people-widget">
   {{ with $block.content.title }}
@@ -66,7 +68,24 @@
           {{ if and $show_role .Params.role }}<h3>{{ .Params.role | markdownify | emojify }}</h3>{{ end }}
           {{ if $show_social }}{{ partial "social_links" . }}{{ end }}
           {{ if and $show_interests .Params.interests }}<p class="people-interests">{{ delimit .Params.interests ", " | markdownify | emojify }}</p>{{ end }}
-          {{ if and $block.design.show_education .Params.education }}<p class="people-education">{{ .Params.education | markdownify | emojify }}</p>{{ end }} <!-- 添加 education 显示逻辑 -->
+          {{ if and $show_bio .Params.bio }}<p class="people-bio">{{ .Params.bio | markdownify | emojify }}</p>{{ end }}
+          {{ if and $show_education .Params.education }} <!-- 添加 education 显示逻辑 -->
+            <div class="people-education">
+              <h4>Education</h4>
+              <ul>
+                {{ range .Params.education.courses }}
+                  <li>
+                    <strong>{{ .course }}</strong><br>
+                    {{ .institution }}<br>
+                    {{ if .supervisor }}Supervisor: {{ .supervisor }}<br>{{ end }}
+                    {{ if .advisors }}Advisors: {{ delimit .advisors ", " }}<br>{{ end }}
+                    {{ if .advisor }}Advisor: {{ .advisor }}<br>{{ end }}
+                    {{ .year }}
+                  </li>
+                {{ end }}
+              </ul>
+            </div>
+          {{ end }}
         </div>
       </div>
     {{ end }}
