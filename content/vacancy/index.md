@@ -26,6 +26,7 @@ sections:
 
         ## Summer Camp Opportunities
         If you are interested in pursuing a Master Program or Ph.D Program via Summer Camp, there might be some useful links: 
+        https://www.sigs.tsinghua.edu.cn/120/list.htm
         https://www.sigs.tsinghua.edu.cn/
         https://yzbm.tsinghua.edu.cn/index
 ---
