@@ -18,7 +18,9 @@ sections:
         **We are looking for new group members with passion, talent, and grit!**
 
         ## Applications for PhD and Postdoc positions
-        If you are interested in working with us as a PhD student or postdoc, please send an email to Dr. Kaichen Dong. State briefly why you are interested and attach a CV. No need for a separate cover letter or certificates. Important: please insert 'Application PhD' or 'Application Postdoc' in the subject line.
+        If you are interested in working with us as a PhD student or postdoc, please send an email to Dr. Kaichen Dong. State briefly why you are interested and attach a CV. No need for a separate cover letter or certificates. 
+        
+        **Important: please insert 'Application PhD' or 'Application Postdoc' in the subject line.**
 
         ## Master projects for Data Science and Information Technology students
         If you are a Master student at Data Science and Information Technology looking for a Master project, contact Dr. Kaichen Dong (or any group member) via email or stop by his office.
