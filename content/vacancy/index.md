@@ -13,7 +13,9 @@ sections:
         # Open Positions
 
         ## Postdoctoral Researcher and Graduate Student Positions are available!
-        Please contact Dr. Kaichen Dong if you are interested in our research and majoring in physics, materials science, instrument science, mechanical engineering, electrical engineering, thermal engineering, optics, and telecommunications. We are looking for new group members with passion, talent, and grit!
+        Please contact [Dr. Kaichen Dong](mailto:dkc22@sz.tsinghua.edu.cn) if you are interested in our research and majoring in physics, materials science, instrument science, mechanical engineering, electrical engineering, thermal engineering, optics, and telecommunications. 
+
+        **We are looking for new group members with passion, talent, and grit!**
 
         ## Applications for PhD and Postdoc positions
         If you are interested in working with us as a PhD student or postdoc, please send an email to Dr. Kaichen Dong. State briefly why you are interested and attach a CV. No need for a separate cover letter or certificates. Important: please insert 'Application PhD' or 'Application Postdoc' in the subject line.
