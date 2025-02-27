@@ -39,7 +39,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'content\publication\[15]-TBPC-Flat bands in magic-angle bilayer photonic crystals at small twists. Physical Review Letters\PhysRevLett.126.223601.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
