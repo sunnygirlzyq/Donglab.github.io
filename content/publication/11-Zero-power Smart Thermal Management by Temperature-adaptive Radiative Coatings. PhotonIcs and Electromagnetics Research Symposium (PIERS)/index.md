@@ -1,5 +1,5 @@
 ---
-title: 'Multi-stimulus perception and visualization by an intelligent liquid metal-elastomer architecture'
+title: 'Zero-power Smart Thermal Management by Temperature-adaptive Radiative Coatings. PhotonIcs and Electromagnetics Research Symposium (PIERS)'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -21,11 +21,11 @@ publishDate: '2024-01-01T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['article-journal']
+publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Science advances*
-publication_short: ''
+publication: In *PhotonIcs and Electromagnetics Research Symposium*
+publication_short: 'PIERS'
 
 abstract: ''
 
