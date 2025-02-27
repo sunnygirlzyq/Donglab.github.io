@@ -1,7 +1,21 @@
 ---
-title: "Temperature-adaptive radiative coating for all-season household thermal regulation"
+title: "Temperature-adaptive radiative coating for all-season household thermal regulation. Science"
 authors:
+- Kechao Tang
 - admin
+- Jiachen Li
+- Madeleine P Gordon
+- Finnegan G Reichertz
+- Hyungjin Kim
+- Yoonsoo Rho
+- Qingjun Wang
+- Chang-Yu Lin
+- Costas P Grigoropoulos
+- Ali Javey
+- Jeffrey J Urban
+- Jie Yao
+- Ronnen Levinson
+- Junqiao Wu
 author_notes:
 date: "2021-01-01T00:00:00Z"
 doi: ""
@@ -18,7 +32,7 @@ publication_types: ["article-journal"]
 publication: "*Science*"
 publication_short: ""
 
-abstract: The sky is a natural heat sink that has been extensively used for passive radiative cooling of households. A lot of focus has been on maximizing the radiative cooling power of roof coating in the hot daytime using static, cooling-optimized material properties. However, the resultant overcooling in cold night or winter times exacerbates the heating cost, especially in climates where heating dominates energy consumption. We approached thermal regulation from an all-season perspective by developing a mechanically flexible coating that adapts its thermal emittance to different ambient temperatures. The fabricated temperature-adaptive radiative coating (TARC) optimally absorbs the solar energy and automatically switches thermal emittance from 0.20 for ambient temperatures lower than 15°C to 0.90 for temperatures above 30°C, driven by a photonically amplified metal-insulator transition. Simulations show that this system outperforms existing roof coatings for energy saving in most climates, especially those with substantial seasonal variations.
+abstract: ''
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -30,7 +44,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'content\publication\[16]-TARC- Temperature-adaptive radiative coating for all-season household thermal regulation. Science\science.abf7136.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

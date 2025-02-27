@@ -1,13 +1,19 @@
 ---
-title: "Temperature-adaptive radiative coating for all-season household thermal regulation"
+title: "Low-loss, geometry-invariant optical waveguides with near-zero-index materials. Nanophotonics"
 authors:
+- Danqing Wang
 - admin
-author_notes:
-date: "2021-01-01T00:00:00Z"
+- Jingang Li
+- Costas Grigoropoulos
+- Jie Yao
+- Jin Hong
+- Junqiao Wu
+author_notes: ''
+date: "2022-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-01-01T00:00:00Z"
+publishDate: "2022-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -15,10 +21,10 @@ publishDate: "2021-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Science*"
+publication: "*Nanophotonics*"
 publication_short: ""
 
-abstract: The sky is a natural heat sink that has been extensively used for passive radiative cooling of households. A lot of focus has been on maximizing the radiative cooling power of roof coating in the hot daytime using static, cooling-optimized material properties. However, the resultant overcooling in cold night or winter times exacerbates the heating cost, especially in climates where heating dominates energy consumption. We approached thermal regulation from an all-season perspective by developing a mechanically flexible coating that adapts its thermal emittance to different ambient temperatures. The fabricated temperature-adaptive radiative coating (TARC) optimally absorbs the solar energy and automatically switches thermal emittance from 0.20 for ambient temperatures lower than 15°C to 0.90 for temperatures above 30°C, driven by a photonically amplified metal-insulator transition. Simulations show that this system outperforms existing roof coatings for energy saving in most climates, especially those with substantial seasonal variations.
+abstract: ''
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -30,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'content\publication\[17]--Low-loss, geometry-invariant optical waveguides with near-zero-index materials. Nanophotonics\10.1515_nanoph-2022-0445.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
