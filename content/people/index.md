@@ -17,7 +17,7 @@ sections:
           - Undergraduates
     design:
       show_organizations: true
-      show_interests: true
+      show_interests: false
       show_social: true
       show_role: true
       show_education: true
