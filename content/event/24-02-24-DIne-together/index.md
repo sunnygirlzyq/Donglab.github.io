@@ -1,5 +1,5 @@
 ---
-title: Autumn-Dine Together
+title: Winter-Dine Together
 
 address:
   street: 450 Serra Mall
@@ -9,7 +9,7 @@ address:
   country: Cina
 
 abstract: ''
-date: '2023-10-24T13:00:00Z'
+date: '2024-02-24T13:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 # all_day: false
 
