@@ -50,7 +50,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'content\publication\3-A Multifunctional Micro-Electro-Opto-Mechanical (MEOM) Platform Based on Phase-transition Materials. Conference on Lasers and Electro-Optics (CLEO)\conference-paper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

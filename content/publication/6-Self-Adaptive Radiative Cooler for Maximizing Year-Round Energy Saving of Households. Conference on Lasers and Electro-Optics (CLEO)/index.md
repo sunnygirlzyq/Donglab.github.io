@@ -37,8 +37,8 @@ publishDate: '2022-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *PhotonIcs and Electromagnetics Research Symposium*
-publication_short: In *PIERS*
+publication: In *Conference on Lasers and Electro-Optics*
+publication_short: In *CLEO*
 
 abstract: ''
 
@@ -48,14 +48,14 @@ summary: ''
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'content\publication\6-Self-Adaptive Radiative Cooler for Maximizing Year-Round Energy Saving of Households. Conference on Lasers and Electro-Optics (CLEO)\conference-paper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

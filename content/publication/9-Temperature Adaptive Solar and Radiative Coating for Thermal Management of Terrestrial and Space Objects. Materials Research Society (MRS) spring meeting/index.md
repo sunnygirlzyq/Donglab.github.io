@@ -1,5 +1,5 @@
 ---
-title: 'Zero-power Smart Thermal Management by Temperature-adaptive Radiative Coatings.'
+title: 'Temperature Adaptive Solar and Radiative Coating for Thermal Management of Terrestrial and Space Objects. Materials Research Society (MRS) spring meeting'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -24,8 +24,8 @@ publishDate: '2024-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *PhotonIcs and Electromagnetics Research Symposium*
-publication_short: In *PIERS*
+publication: In *Materials Research Society spring meeting*
+publication_short: In *MRS spring meeting*
 
 abstract: ''
 
