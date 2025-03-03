@@ -9,7 +9,7 @@ appearance:
   theme_day: blue-day
   theme_night: purple-night
   font: native
-  font_size: L
+  font_size: S
 
 # SEO
 
