@@ -1,17 +1,55 @@
 // Make page header alignment consistent with widget page header alignment
 .universal-wrapper h1 {
   text-align: center;
+  font-size: 28px; // 调小 H1 标题的字体大小
 }
 
 // Center the CTA shortcode button
 .cta-group {
   justify-content: center;
 }
-// 只加粗导航栏中的链接文字 https
+
+// 只加粗导航栏中的链接文字
 nav ul li a {
   font-weight: bold;
+  font-size: 14px; // 适当调整导航栏字体大小
 }
+
+// 修改整个网页正文的字体大小
+body {
+  font-size: 14px; // 调小网页正文的字体大小
+  line-height: 1.6;
+}
+
+// 修改文章内容的字体大小
+.article-style, .content, p {
+  font-size: 14px; // 文章段落字体大小
+}
+
+// 调整标题字体
+h1 {
+  font-size: 24px; // 调小 H1 标题
+}
+
+h2 {
+  font-size: 22px; // 调小 H2 标题
+}
+
+h3 {
+  font-size: 18px; // 调小 H3 标题
+}
+
+// 让表格内容字体变小
+table {
+  font-size: 12px;
+}
+
+// 让侧边栏文本字体变小
+.sidebar {
+  font-size: 13px;
+}
+
+// 隐藏不必要的元素
 .hidden {
   display: none;
 }
-
