@@ -9,7 +9,7 @@ sections:
     content:
       title: |
         <a href="https://www.tsinghua.edu.cn/" target="_blank">
-          <img src="media/tsinghua_logo.jpg" alt="Tsinghua University Logo" height="20">
+          <img src="media/tsinghua_logo.jpg" alt="Tsinghua University Logo" height="5">
         </a>
       image:
         filename: Intro.png
@@ -54,7 +54,7 @@ sections:
           size: cover
           text_color_light: true
       spacing:
-        padding: ['16px', '0', '16px', '0']
+        padding: ['14px', '0', '14px', '0']
       css_class: fullscreen
 
   - block: collection
