@@ -47,6 +47,16 @@
       </div>
     {{ end }}
 
+    <!-- 显示 authors，去掉超链接 -->
+    {{ if $item.Params.authors }}
+      <div class="publication-authors">
+        <strong>Authors:</strong>
+        {{ range $index, $author := $item.Params.authors }}
+          {{- if $index }}, {{ end }}{{ $author }}
+        {{ end }}
+      </div>
+    {{ end }}
+
     <!-- 显示摘要 -->
     {{ with $summary }}
     <div class="article-style">
@@ -69,7 +79,9 @@
 
       {{ if and $show_authors_only $item.Params.authors }}
       <div>
-        {{ partial "page_metadata_authors" $item }}
+        <span>{{ range $index, $author := $item.Params.authors }}
+          {{- if $index }}, {{ end }}{{ $author }}
+        {{ end }}</span>
       </div>
       {{ else if not $show_authors_only }}
         {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
@@ -95,4 +107,3 @@
     {{end}}
   </div>
 </div>
-

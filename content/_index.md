@@ -9,7 +9,7 @@ sections:
     content:
       title: |
         <a href="https://www.sigs.tsinghua.edu.cn/" target="_blank">
-          <img src="media/Tsinghua-SIGS-logo.png" alt="Tsinghua University Logo" height="5">
+          <img src="media/Tsinghua-SIGS-logo.png" alt="Tsinghua University Logo" height="50">
         </a>
       image:
         filename: Intro.png
@@ -34,9 +34,9 @@ sections:
       order: desc
       page_type: post
     design:
-      view: card
+      view: compact  # ✅ 改用 compact 视图，以便去除超链接
       columns: '1'
-      css_class: small-news-text  # ✅ 添加自定义 CSS 类
+      css_class: small-news-text  # ✅ 设定 CSS 类，便于调整字体和图片大小
 
   - block: collection
     content:
@@ -60,4 +60,3 @@ sections:
     design:
       columns: '1'
 ---
-

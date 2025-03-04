@@ -54,14 +54,21 @@ table {
 .hidden {
   display: none;
 }
-/* 调整 Latest News 的字体大小 */
-.small-news-text .collection-title {
-  font-size: 14px !important;  /* 你可以调整这个数值 */
+/* 缩小 Latest News 区块的字体大小 */
+.small-news-text .article-title {
+  font-size: 14px !important;  /* ✅ 文章标题变小 */
 }
 
-.small-news-text .collection-item {
-  font-size: 12px !important;  /* 调整文章列表的字体 */
+.small-news-text .article-style {
+  font-size: 12px !important;  /* ✅ 文章摘要变小 */
 }
+
+/* 缩小 Latest News 图片 */
+.small-news-text img {
+  max-width: 80px !important;  /* ✅ 让图片变小 */
+  height: auto;
+}
+
 
 body {
   font-size: 0.875rem; /* 1rem = 16px, 0.875rem = 14px */
@@ -84,14 +91,15 @@ body {
   font-size: 14px !important; /* 调小整体字体 */
 }
 
-.small-font .article-title {
-  font-size: 16px !important; /* 文章标题稍大 */
+/* 让 publication 相关内容字体更小 */
+.small-font {
+  font-size: 15px !important;
 }
 
 .small-font .publication, 
 .small-font .publication-type, 
-.small-font .stream-meta {
-  font-size: 13px !important; /* 其他文本 */
+.small-font .publication-authors {
+  font-size: 13px !important;
 }
 
 .small-font img {
