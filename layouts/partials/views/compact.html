@@ -22,19 +22,26 @@
   {{ $summary = $item.Summary }}
 {{ end }}
 
-<div class="media stream-item view-compact small-font">
-  <!-- 图片在最左侧 -->
-  <div class="media-left">
-    {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
-    {{ with $resource }}
-      {{ $image := .Resize "200x" }}  <!-- 提高清晰度，宽度200px -->
-      {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
-      <img src="{{ $image.RelPermalink }}" height="auto" width="200"
-          alt="{{ $item.Title }}" loading="lazy" class="article-img">
-    {{ end }}
-  </div>
+<div class="media stream-item view-compact small-font" style="display: flex; align-items: center;">
+  <!-- 获取图片资源 -->
+  {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
+  
+  <!-- 如果有图片，保留空间 -->
+  {{ if $resource }}
+    <div class="media-left" style="flex: 0 0 200px; text-align: center;">
+      {{ with $resource }}
+        {{ $image := .Resize "200x" }}  <!-- 提高清晰度，宽度200px -->
+        {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
+        <img src="{{ $image.RelPermalink }}" height="auto" width="200"
+            alt="{{ $item.Title }}" loading="lazy" class="article-img">
+      {{ end }}
+    </div>
+  {{ else }}
+    <!-- 如果没有图片，留出 200px 的空间 -->
+    <div class="media-left" style="flex: 0 0 200px;"></div>
+  {{ end }}
 
-  <div class="media-body">
+  <div class="media-body" style="flex: 1;">
 
     <!-- 文章标题 -->
     <div class="section-subheading article-title mb-0 mt-0">
