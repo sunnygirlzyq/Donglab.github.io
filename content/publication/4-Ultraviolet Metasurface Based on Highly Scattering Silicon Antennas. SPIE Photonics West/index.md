@@ -5,17 +5,17 @@ title: 'Ultraviolet Metasurface Based on Highly Scattering Silicon Antennas. SPI
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Yang Deng
-  - Xi Wang
-  - Zilun Gong
-  - Kaichen Dong
-  - Shuai Lou
-  - Nicolas Pégard
-  - Kyle Tom
-  - Fuyi Yang
-  - Laura Waller
-  - Zheng You
-  - Jie Yao
+  - Y. Deng
+  - X. Wang
+  - Z. Gong
+  - K. Dong
+  - S. Lou
+  - N. Pégard
+  - K. B. Tom
+  - F. Yang
+  - Z. You
+  - L. Waller
+  - J. Yao
 
 # Author notes (optional)
 author_notes:

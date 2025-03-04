@@ -5,21 +5,21 @@ title: 'Temperature-adaptive Radiative Coating for All-Season Household Thermal 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Kechao Tang
-- Kaichen Dong
-- Jiachen Li
-- Madeleine P Gordon
-- Finnegan G Reichertz
-- Hyungjin Kim
-- Yoonsoo Rho
-- Qingjun Wang
-- Chang-Yu Lin
-- Costas P Grigoropoulos
-- Ali Javey
-- Jeffrey J Urban
-- Jie Yao
-- Ronnen Levinson
-- Junqiao Wu
+- K. Tang
+- K. Dong
+- J. Li
+- M. P. Gordon
+- F. G. Reichertz
+- H. Kim
+- Y. Rho
+- Q. Wang
+- C.-Y. Lin
+- C. P. Grigoropoulos
+- A. Javey
+- J. J. Urban
+- J. Yao
+- R. Levinson
+- J. Wu
 
 # Author notes (optional)
 author_notes:

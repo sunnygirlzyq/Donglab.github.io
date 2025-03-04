@@ -5,22 +5,22 @@ title: 'A Reprogrammable Photonic Meta-Platform.'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Sukjoon Hong
-  - Yang Deng
-  - He Ma
-  - Jiachen Li
-  - Xi Wang
-  - Junyeob Yeo
-  - LetianWang
-  - Shuai Lou
-  - Kyle B. Tom
-  - Kai Liu
-  - Zheng You
-  - Yang Wei
-  - Costas P. Grigoropoulos
-  - Jie Yao *
-  - Junqiao Wu *
+  - K. Dong
+  - S. Hong
+  - Y. Deng
+  - H. Ma
+  - J. Li
+  - X. Wang
+  - J. Yeo
+  - L. Wang
+  - S. Lou
+  - K. B. Tom
+  - K. Liu
+  - Z. You
+  - Y. Wei
+  - C. P. Grigoropoulos
+  - J. Yao
+  - J. Wu
 
 
 # Author notes (optional)

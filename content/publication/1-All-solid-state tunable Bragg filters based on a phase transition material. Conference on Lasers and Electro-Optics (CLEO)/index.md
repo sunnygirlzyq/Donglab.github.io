@@ -5,13 +5,13 @@ title: 'All-solid-state tunable Bragg filters based on a phase transition materi
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Xi Wang
-  - Zilun Gong
-  - Kaichen Dong
-  - Shuai Lou
-  - Jonathan Slack
-  - Andre Anders
-  - Jie Yao *
+  - X. Wang
+  - Z. Gong
+  - K. Dong
+  - S. Lou
+  - J. Slack
+  - A. Anders
+  - J. Yao
 
 # Author notes (optional)
 author_notes: ''

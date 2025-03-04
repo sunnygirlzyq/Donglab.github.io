@@ -5,7 +5,16 @@ title: 'Magic-Angle Flat Bands and Light Localization in Bilayer Honeycomb Photo
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
+  - K. Dong
+  - T. Zhang
+  - J. Li
+  - Q. Wang
+  - F. Yang
+  - Y. Rho
+  - D. Wang
+  - C. P. Grigoropoulos
+  - J. Wu
+  - J. Yao
 
 # Author notes (optional)
 author_notes:

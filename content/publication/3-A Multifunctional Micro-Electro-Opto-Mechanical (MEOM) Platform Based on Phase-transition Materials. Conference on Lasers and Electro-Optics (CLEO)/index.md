@@ -5,16 +5,16 @@ title: 'A Multifunctional Micro-Electro-Opto-Mechanical (MEOM) Platform Based on
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Xi Wang
-  - Kaichen Dong
-  - Hwan Sung Choe
-  - Huili Liu
-  - Shuai Lou
-  - Kyle B. Tom
-  - Hans A. Bechte 
-  - Zheng You
-  - Junqiao Wu
-  - Jie Yao *
+  - X. Wang
+  - K. Dong
+  - H. S. Choe
+  - H. Liu
+  - S. Lou
+  - K. B. Tom
+  - H. A. Bechtel
+  - Z. You
+  - J. Wu
+  - J. Yao
 
 # Author notes (optional)
 author_notes: ''
