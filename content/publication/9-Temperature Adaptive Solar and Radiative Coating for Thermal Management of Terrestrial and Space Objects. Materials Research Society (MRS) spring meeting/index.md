@@ -8,8 +8,7 @@ authors:
   - admin
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
+author_notes: ''
 
 
 date: '2024-01-01T00:00:00Z'

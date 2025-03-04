@@ -2,7 +2,7 @@
 title: "Scalable and Durable Temperature-Stabilizing Janus Thermal Cloak."
 authors:
 - Jiachen Li
-- admin
+- Kaichen Dong *
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"

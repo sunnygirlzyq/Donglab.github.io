@@ -3,7 +3,7 @@ title: "A Thermal Radiation Modulation Platform by Emissivity Engineering with G
 authors:
 - Kechao Tang
 - Xi Wang
-- admin
+- Kaichen Dong
 - Ying Li
 - Jiachen Li
 - Bo Sun
@@ -11,7 +11,7 @@ authors:
 - Chris Dames
 - Chengwei Qiu
 - Jie Yao
-- Junqiao Wu
+- Junqiao Wu *
 author_notes:
 date: "2020-01-01T00:00:00Z"
 doi: ""

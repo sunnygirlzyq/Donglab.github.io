@@ -7,7 +7,7 @@ title: 'Switchable and Tunable Radiative Cooling: Mechanisms, Applications, and 
 authors:
   - Xuzhe Zhao
   - Jiachen Li
-  - admin 
+  - Kaichen Dong 
   - Junqiao Wu 
 
 # Author notes (optional)

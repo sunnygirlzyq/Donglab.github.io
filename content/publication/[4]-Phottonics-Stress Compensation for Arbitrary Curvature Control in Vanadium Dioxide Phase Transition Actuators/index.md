@@ -1,7 +1,7 @@
 ---
 title: "Stress Compensation for Arbitrary Curvature Control in Vanadium Dioxide Phase Transition Actuators."
 authors:
-- admin
+- Kaichen Dong
 - Shuai Lou
 - Hwan Sung Choe
 - Kai Liu

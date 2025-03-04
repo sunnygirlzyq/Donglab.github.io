@@ -2,7 +2,7 @@
 title: "Printable, emissivity-adaptive and albedo-optimized covering for year-round energy savings."
 authors:
 - Jiachen Li
-- admin 
+- Kaichen Dong
 - Tiancheng Zhang
 - Derick Tseng
 - Cheng Fang
@@ -15,7 +15,7 @@ authors:
 - Costas P. Grigoropoulos
 - Ali Javey
 - Jie Yao
-- Junqiao Wu
+- Junqiao Wu *
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"

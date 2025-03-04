@@ -11,6 +11,16 @@ authors:
   - He Ma
   - Jiachen Li
   - Xi Wang
+  - Junyeob Yeo
+  - LetianWang
+  - Shuai Lou
+  - Kyle B. Tom
+  - Kai Liu
+  - Zheng You
+  - Yang Wei
+  - Costas P. Grigoropoulos
+  - Jie Yao *
+  - Junqiao Wu *
 
 
 # Author notes (optional)

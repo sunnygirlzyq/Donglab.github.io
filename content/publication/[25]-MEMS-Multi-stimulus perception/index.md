@@ -5,16 +5,16 @@ title: 'Multi-stimulus perception and visualization by an intelligent liquid met
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Hongzhang Wang
+  - Hongzhang Wang *
   - Bo Yuan
   - Xiyu Zhu
   - Xiaohui Shan
   - Sen Chen
   - Wenbo Ding
   - Yingjie Cao
-  - admin
-  - Xudong Zhang6
-  - Rui Guo
+  - Kaichen Dong
+  - Xudong Zhang *
+  - Rui Guo *
 
 
 # Author notes (optional)

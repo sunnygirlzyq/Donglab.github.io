@@ -2,13 +2,13 @@
 title: "Tunable Analog Thermal Material."
 authors:
 - Guoqiang Xu
-- admin
+- Kaichen Dong
 - Ying Li
 - Huagen Li
 - Kaipeng Liu
 - Longqiu Li
 - Junqiao Wu 
-- ChengWei Qiu
+- ChengWei Qiu ✉
 author_notes:
 date: "2020-01-01T00:00:00Z"
 doi: ""

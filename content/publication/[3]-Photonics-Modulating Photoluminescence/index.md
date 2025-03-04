@@ -9,9 +9,9 @@ authors:
 - Yufei Sun
 - Sangwook Lee
 - Kevin X. Wang
-- admin 
+- Kaichen Dong
 - Yinghui Sun
-- Sefaattin Tongay'
+- Sefaattin Tongay
 - Liying Jiao
 - Jie Yao
 - Kai Liu

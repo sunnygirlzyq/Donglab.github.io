@@ -6,7 +6,7 @@ title: 'A Multifunctional Micro-Electro-Opto-Mechanical (MEOM) Platform Based on
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Xi Wang
-  - admin
+  - Kaichen Dong
   - Hwan Sung Choe
   - Huili Liu
   - Shuai Lou
@@ -14,7 +14,7 @@ authors:
   - Hans A. Bechte 
   - Zheng You
   - Junqiao Wu
-  - Jie Yao
+  - Jie Yao *
 
 # Author notes (optional)
 author_notes: ''

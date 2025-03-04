@@ -13,7 +13,7 @@ authors:
   - Yulan Fu
   - Yuanqi Wei
   - Xuzhe Zhao
-  - admin
+  - Kaichen Dong
   - Kaili Jiang
   - Kai Liu * 
   - Xinping Zhang *

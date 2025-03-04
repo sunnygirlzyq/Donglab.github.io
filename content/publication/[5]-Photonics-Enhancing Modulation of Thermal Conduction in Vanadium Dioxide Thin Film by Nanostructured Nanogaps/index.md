@@ -4,7 +4,7 @@ authors:
 - Hwan Sung Choe
 - Joonki Suh
 - Changhyun Ko
-- admin
+- Kaichen Dong
 - Sangwook Lee
 - oonsuk Park
 - Yeonbae Lee

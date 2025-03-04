@@ -1,7 +1,7 @@
 ---
 title: "Millikelvin-resolved ambient thermography."
 authors:
-- Kechao Tang
+- Kechao Tang *
 - Kaichen Dong
 - Christopher J Nicolai
 - Ying Li
@@ -10,7 +10,7 @@ authors:
 - Cheng-Wei Qiu
 - David H Raulet
 - Jie Yao
-- Junqiao Wu
+- Junqiao Wu 
 author_notes:
 date: "2020-01-01T00:00:00Z"
 doi: ""

@@ -11,7 +11,7 @@ authors:
 - Sefaattin Tongay
 - Joel W. Ager
 - Kai Liu
-- Haibin Su
+- Haibin Su *
 - Junqiao Wu
 author_notes:
 date: "2015-01-01T00:00:00Z"

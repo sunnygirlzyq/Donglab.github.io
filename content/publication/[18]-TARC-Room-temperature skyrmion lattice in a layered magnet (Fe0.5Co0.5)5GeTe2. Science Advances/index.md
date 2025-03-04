@@ -1,7 +1,7 @@
 ---
 title: "Room-temperature skyrmion lattice in a layered magnet (Fe0.5Co0.5)5GeTe2."
 authors:
-- Hongrui Zhang
+- Hongrui Zhang *
 - David Raftery
 - Ying-ting Chan
 - Yu-tsun Shao
@@ -9,7 +9,7 @@ authors:
 - Xiang Chen
 - Xiaomi Huang
 - Jonathan T. Reichanadter
-- admin
+- Kaichen Dong
 - Sandhya Susarla
 - Lucas Caretta
 - Zhen Chen
@@ -19,7 +19,7 @@ authors:
 - Weida Wu
 - David A. Muller
 - Robert J. Birgeneau
-- Ramamoorthy Ramesh
+- Ramamoorthy Ramesh *
 author_notes:
 date: "2022-01-01T00:00:00Z"
 doi: ""

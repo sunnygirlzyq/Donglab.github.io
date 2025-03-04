@@ -7,11 +7,11 @@ title: 'All-solid-state tunable Bragg filters based on a phase transition materi
 authors:
   - Xi Wang
   - Zilun Gong
-  - admin
+  - Kaichen Dong
   - Shuai Lou
   - Jonathan Slack
   - Andre Anders
-  - Jie Yao
+  - Jie Yao *
 
 # Author notes (optional)
 author_notes: ''

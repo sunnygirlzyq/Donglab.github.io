@@ -1,7 +1,7 @@
 ---
 title: "A 0.2 V micro-electromechanical switch enabled by a phase transition."
 authors:
-- admin
+- Kaichen Dong
 - Hwan Sung Choe
 - Xi Wang
 - Huili Liu
@@ -12,9 +12,9 @@ authors:
 - Shuai Lou
 - Letian Wang
 - Costas P. Grigoropoulos
-- Zheng You
-- Jie Yao
-- Junqiao Wu
+- Zheng You *
+- Jie Yao *
+- Junqiao Wu *
 author_notes:
 date: "2018-01-01T00:00:00Z"
 doi: ""

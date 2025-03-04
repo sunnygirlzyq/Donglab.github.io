@@ -2,15 +2,15 @@
 title: "Multifunctional Microelectro-Opto-Mechanical Platform Based on Phase-Transition Materials."
 authors:
 - Xi Wang
-- admin
+- Kaichen Dong
 - Hwan Sung Choe
 - Huili Liu
 - Shuai Lou
 - Kyle B. Tom
-- ‡Hans A. Bechtel
+- Hans A. Bechtel
 - Zheng You
 - Junqiao Wu
-- Jie Yao
+- Jie Yao *
 author_notes:
 date: "2018-01-01T00:00:00Z"
 doi: ""

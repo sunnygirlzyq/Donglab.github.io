@@ -1,7 +1,7 @@
 ---
 title: "Measurement of Residual Stresses in Pulsed Laser Deposited Thin Films."
 authors:
-- admin
+- Kaichen Dong
 - Shuai Lou
 - Jie Yao
 - Junqiao Wu

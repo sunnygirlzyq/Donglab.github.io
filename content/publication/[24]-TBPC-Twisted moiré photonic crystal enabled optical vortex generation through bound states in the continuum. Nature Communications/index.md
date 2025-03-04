@@ -2,7 +2,7 @@
 title: "Twisted moiré photonic crystal enabled optical vortex generation through bound states in the continuum."
 authors:
 - Tiancheng Zhang
-- admin
+- Kaichen Dong
 - Jiachen Li
 - Fanhao Meng
 - Jingang Li

@@ -1,7 +1,7 @@
 ---
 title: "Reducing temperature swing of space objects with temperature-adaptive solar or radiative coating."
 authors:
-- admin
+- Kaichen Dong
 - Derick Tseng
 - Jiachen Li
 - Sorren Warkander

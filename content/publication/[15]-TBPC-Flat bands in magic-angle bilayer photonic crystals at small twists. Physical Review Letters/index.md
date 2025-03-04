@@ -1,7 +1,7 @@
 ---
 title: "Flat bands in magic-angle bilayer photonic crystals at small twists."
 authors:
-- admin
+- Kaichen Dong *
 - Tiancheng Zhang
 - Jiachen Li
 - Qingjun Wang

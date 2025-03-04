@@ -5,7 +5,12 @@ title: 'Subwavelength Light Confinement and Enhancement Enabled by Dissipative D
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
+- Kaichen Dong
+- YANG DENG
+- XI WANG
+- KYLE B. TOM
+- ZHENG YOU
+- JIE YAO *
 
 # Author notes (optional)
 author_notes:

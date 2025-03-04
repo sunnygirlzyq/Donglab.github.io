@@ -1,7 +1,7 @@
 ---
 title: "A Lithography-Free and Field-Programmable Photonic Metacanvas."
 authors:
-- admin
+- Kaichen Dong
 - Sukjoon Hong
 - Yang Deng
 - He Ma
@@ -15,8 +15,8 @@ authors:
 - Zheng You
 - Yang Wei
 - Costas P Grigoropoulos
-- Jie Yao
-- Junqiao Wu
+- Jie Yao *
+- Junqiao Wu *
 author_notes:
 date: "2018-01-01T00:00:00Z"
 doi: ""

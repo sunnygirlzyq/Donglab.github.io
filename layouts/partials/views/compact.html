@@ -1,7 +1,7 @@
 {{ $item := .item }}
 
 {{/* Dynamic view adjusts to content type. */}}
-{{ $show_authors_only := false }}{{/* Show authors only or full metadata? */}}
+{{ $show_authors_only := false }}
 {{ if eq $item.Type "event" }}
   {{ $show_authors_only = true }}
 {{ else if eq $item.Type "publication" }}
@@ -30,7 +30,7 @@
   {{ if $resource }}
     <div class="media-left" style="flex: 0 0 200px; text-align: center;">
       {{ with $resource }}
-        {{ $image := .Resize "200x" }}  <!-- 提高清晰度，宽度200px -->
+        {{ $image := .Resize "200x" }}
         {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
         <img src="{{ $image.RelPermalink }}" height="auto" width="200"
             alt="{{ $item.Title }}" loading="lazy" class="article-img">
@@ -72,12 +72,17 @@
     </div>
     {{ end }}
 
-    <!-- 作者部分，去掉超链接 -->
+    <!-- 作者部分，去掉超链接，并加粗 "Kaichen Dong" -->
     {{ if $item.Params.authors }}
       <div class="article-authors small-font">
         <strong>Authors:</strong> 
         {{ range $index, $author := $item.Params.authors }}
-          {{- if $index }}, {{ end }}{{ $author }}
+          {{- if $index }}, {{ end }}
+          {{- if eq $author "Kaichen Dong" }}
+            <strong>{{ $author }}</strong>
+          {{- else }}
+            {{ $author }}
+          {{- end }}
         {{ end }}
       </div>
     {{ end }}

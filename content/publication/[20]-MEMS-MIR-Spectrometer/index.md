@@ -5,7 +5,7 @@ title: 'Single-pixel reconstructive mid-infrared micro-spectrometer.'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
+  - Kaichen Dong
   - Jiachen Li
   - Tiancheng Zhang
   - Fangda Gu
@@ -14,7 +14,7 @@ authors:
   - Kechao Tang
   - Ali Javey
   - Jie Yao
-  - Junqiao Wu
+  - Junqiao Wu *
 
 # Author notes (optional)
 # author_notes:

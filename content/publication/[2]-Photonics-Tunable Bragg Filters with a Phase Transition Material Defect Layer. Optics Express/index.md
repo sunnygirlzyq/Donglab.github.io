@@ -3,11 +3,11 @@ title: "Tunable Bragg Filters with a Phase Transition Material Defect Layer."
 authors:
 - Xi Wang,
 - Zilun Gong,
-- admin
+- Kaichen Dong
 - Shuai Lou
 - Jonathan Slack
 - Andre Anders
-- Jie Yao
+- Jie Yao *
 author_notes:
 date: "2016-01-01T00:00:00Z"
 doi: ""

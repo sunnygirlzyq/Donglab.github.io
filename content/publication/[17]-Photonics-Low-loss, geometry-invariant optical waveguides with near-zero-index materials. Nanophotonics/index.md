@@ -1,13 +1,13 @@
 ---
 title: "Low-loss, geometry-invariant optical waveguides with near-zero-index materials."
 authors:
-- Danqing Wang
-- admin
+- Danqing Wang *
+- Kaichen Dong
 - Jingang Li
 - Costas Grigoropoulos
 - Jie Yao
 - Jin Hong
-- Junqiao Wu
+- Junqiao Wu *
 author_notes: ''
 date: "2022-01-01T00:00:00Z"
 doi: ""
