@@ -37,7 +37,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'content\publication\[5]-Photonics-Enhancing Modulation of Thermal Conduction in Vanadium Dioxide Thin Film by Nanostructured Nanogaps\s41598-017-07466-4.pdf'
+url_pdf: 'https://www.nature.com/articles/s41598-017-07466-4'
 url_code: ''
 url_dataset: ''
 url_poster: ''

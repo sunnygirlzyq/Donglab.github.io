@@ -44,7 +44,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'content\publication\[3]-Photonics-Modulating Photoluminescence of Monolayer Molybdenum Disulfide by Metal-Insulator Phase Transition in Active Substrates. Small\Small - 2016 - Hou - Modulating Photoluminescence of Monolayer Molybdenum Disulfide by Metal Insulator Phase Transition in.pdf'
+url_pdf: 'https://onlinelibrary.wiley.com/doi/epdf/10.1002/smll.201601021'
 url_code: ''
 url_dataset: ''
 url_poster: ''

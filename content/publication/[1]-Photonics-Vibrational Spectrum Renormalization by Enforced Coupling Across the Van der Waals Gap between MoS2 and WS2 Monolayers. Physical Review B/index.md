@@ -47,7 +47,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://journals.aps.org/prb/pdf/10.1103/PhysRevB.92.241408'
+url_source: ''
 url_video: ''
 
 # Featured image

@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://libproxy.qh.yitlink.com:8444/https/443/net/cnki/kns/yitlink/kcms2/article/abstract?v=fNwONIwGMRJVDPM6ajlLBPkOlBhxsLdMJEb7f6H-MQZgwCTCII9DeC6zCv89_6hgM3lm23pTPv4RibusmhZm0PD3GFkDxC__hbSwWlVDj4DuaOSSb-cn5a09h3cyKnBk8RRz-_fJsMMa0iRYhnsAoCBUHc6s9aJ-2TwJOEZPHCZ87eH_REX7pL7w0YXmTmvR&uniplatform=NZKPT&language=CHS'
 url_code: ''
 url_dataset: ''
 url_poster: ''

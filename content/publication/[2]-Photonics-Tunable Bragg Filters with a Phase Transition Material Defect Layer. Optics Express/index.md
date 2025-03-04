@@ -36,7 +36,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'content\publication\[2]-Photonics-Tunable Bragg Filters with a Phase Transition Material Defect Layer. Optics Express\oe-24-18-20365.pdf'
+url_pdf: 'https://opg.optica.org/directpdfaccess/c0b16848-d3a1-4718-b8c12d026d9d7aa6_349089/oe-24-18-20365.pdf?da=1&id=349089&seq=0&mobile=no'
 url_code: ''
 url_dataset: ''
 url_poster: ''

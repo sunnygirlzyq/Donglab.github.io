@@ -36,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://pubs.aip.org/aip/apl/article/109/2/023504/32895'
 url_code: ''
 url_dataset: ''
 url_poster: ''
