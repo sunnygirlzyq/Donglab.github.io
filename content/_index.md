@@ -16,7 +16,7 @@ sections:
       text: |
         <br>
         
-        We are a research group at Institute of Data and Information, Tsinghua Shenzhen International Graduate School. Our team is led by Dr. Kaichen Dong. Our group focuses on research topics related to Temperature-adaptive Radiative Cooling, Moiré Photonics, Metamaterials/Metasurfaces, Zero-power Smart MEMS Sensors, and AI for Science (see publications)**.
+        **We are a research group at Institute of Data and Information, Tsinghua Shenzhen International Graduate School. Our team is led by Dr. Kaichen Dong. Our group focuses on research topics related to Temperature-adaptive Radiative Cooling, Moiré Photonics, Metamaterials/Metasurfaces, Zero-power Smart MEMS Sensors, and AI for Science (see publications)**.
     
   - block: collection
     content:
