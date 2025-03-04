@@ -60,6 +60,7 @@ sections:
     design:
       view: citation
       columns: '1'
+      css_class: small-news-text
 
   - block: markdown
     content:
