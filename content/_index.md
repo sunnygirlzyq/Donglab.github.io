@@ -21,7 +21,8 @@ sections:
                    style="height: 200px; max-width: 100%; border-radius: 10px;">
             </a>
 
-            
+            <img src="media/Intro.png" alt="Intro Image"
+                 style="height: 200px; max-width: 100%; border-radius: 10px;">
           </div>
 
           <div style="display: flex; justify-content: right; align-items: right; gap: 30px; flex-wrap: wrap;">
