@@ -24,7 +24,7 @@
 
 <div class="media stream-item view-compact small-font">
   <!-- 图片在最左侧 -->
-  <div class="media-left">
+  <div class="media-right">
     {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
     {{ with $resource }}
       {{ $image := .Resize "200x" }}  <!-- 提高清晰度，宽度200px -->
