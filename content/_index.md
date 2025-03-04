@@ -7,28 +7,31 @@ type: landing
 sections:
   - block: hero
     design:
-      columns: '1'  # ✅ 让整个 hero 部分居中
+      columns: '1'  # ✅ 确保整个 hero 模块是一个整体
     content:
       title: ""  # 避免默认标题
       text: |
-        <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 100%;">
+        <div style="display: flex; justify-content: center; align-items: center; width: 100%; max-width: 1100px; margin: 0 auto; gap: 30px; flex-wrap: wrap;">
 
-          <!-- Logo -->
-          <a href="https://www.sigs.tsinghua.edu.cn/" target="_blank">
-            <img src="media/Tsinghua-SIGS-logo.png" alt="Tsinghua University Logo"
-                 style="height: 120px; max-width: 100%; margin-bottom: 10px;">
-          </a>
+          <!-- 左侧：Logo + 文本 -->
+          <div style="flex: 1; text-align: left; min-width: 400px;">
+            <a href="https://www.sigs.tsinghua.edu.cn/" target="_blank">
+              <img src="media/Tsinghua-SIGS-logo.png" alt="Tsinghua University Logo"
+                   style="height: 100px; max-width: 100%; margin-bottom: 15px;">
+            </a>
+            <p style="font-size: 16px; line-height: 1.6;">
+              We are a research group at <strong>Institute of Data and Information, Tsinghua Shenzhen International Graduate School.</strong>
+              Our team is led by <strong>Dr. Kaichen Dong</strong>. Our group focuses on research topics related to
+              <strong>Temperature-adaptive Radiative Cooling, Moiré Photonics, Metamaterials/Metasurfaces, Zero-power Smart MEMS Sensors, and AI for Science</strong>.
+            </p>
+          </div>
 
-          <!-- 介绍文本 -->
-          <p style="font-size: 14px; line-height: 1.5; max-width: 800px;">
-            We are a research group at <strong>Institute of Data and Information, Tsinghua Shenzhen International Graduate School.</strong>
-            Our team is led by <strong>Dr. Kaichen Dong</strong>. Our group focuses on research topics related to
-            <strong>Temperature-adaptive Radiative Cooling, Moiré Photonics, Metamaterials/Metasurfaces, Zero-power Smart MEMS Sensors, and AI for Science</strong>
-          </p>
+          <!-- 右侧：Intro 图片 -->
+          <div style="flex: 1; text-align: right; min-width: 400px;">
+            <img src="media/Intro.png" alt="Intro Image"
+                 style="max-height: 200px; max-width: 100%; border-radius: 10px;">
+          </div>
 
-          <!-- Intro 图片 -->
-          <img src="media/Intro.png" alt="Intro Image"
-               style="max-height: 200px; max-width: 100%; border-radius: 10px; margin-top: 10px;">
         </div>
 
   - block: collection
