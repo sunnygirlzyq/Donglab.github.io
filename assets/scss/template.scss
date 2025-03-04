@@ -78,3 +78,23 @@ body {
 .stream-meta {
   font-size: 0.75rem; /* 0.75rem = 12px */
 }
+
+/* 调整整个网页的字体大小 */
+.small-font {
+  font-size: 14px !important; /* 调小整体字体 */
+}
+
+.small-font .article-title {
+  font-size: 16px !important; /* 文章标题稍大 */
+}
+
+.small-font .publication, 
+.small-font .publication-type, 
+.small-font .stream-meta {
+  font-size: 13px !important; /* 其他文本 */
+}
+
+.small-font img {
+  max-width: 100%; /* 确保图片不会变形 */
+}
+

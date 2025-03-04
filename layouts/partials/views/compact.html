@@ -22,7 +22,7 @@
   {{ $summary = $item.Summary }}
 {{ end }}
 
-<div class="media stream-item view-compact">
+<div class="media stream-item view-compact small-font">
   <div class="media-body">
 
     <!-- 文章标题 -->
@@ -37,7 +37,7 @@
       </div>
     {{ end }}
 
-    <!-- 显示 publication_types，修正 `delimit` 报错 -->
+    <!-- 显示 publication_types -->
     {{ if $item.Params.publication_types }}
       <div class="publication-type">
         <strong>Type:</strong> 
@@ -95,3 +95,4 @@
     {{end}}
   </div>
 </div>
+
