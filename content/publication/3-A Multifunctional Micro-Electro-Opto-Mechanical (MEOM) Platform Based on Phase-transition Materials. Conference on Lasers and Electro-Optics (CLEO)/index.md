@@ -1,5 +1,5 @@
 ---
-title: 'A Multifunctional Micro-Electro-Opto-Mechanical (MEOM) Platform Based on Phase-transition Materials.Conference on Lasers and Electro-Optics (CLEO)'
+title: 'A Multifunctional Micro-Electro-Opto-Mechanical (MEOM) Platform Based on Phase-transition Materials.'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -32,7 +32,7 @@ publishDate: '2018-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Conference on Lasers and Electro-Optics*
+publication: "*Conference on Lasers and Electro-Optics (CLEO)*, 2018."
 publication_short: In *CLEO*
 
 abstract: ''

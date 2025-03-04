@@ -1,5 +1,5 @@
 ---
-title: 'Self-Adaptive Radiative Cooler for Maximizing Year-Round Energy Saving of Households. Conference on Lasers and Electro-Optics (CLEO)'
+title: 'Self-Adaptive Radiative Cooler for Maximizing Year-Round Energy Saving of Households.'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -37,7 +37,7 @@ publishDate: '2022-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Conference on Lasers and Electro-Optics*
+publication: "*Conference on Lasers and Electro-Optics (CLEO)*, 2022."
 publication_short: In *CLEO*
 
 abstract: ''

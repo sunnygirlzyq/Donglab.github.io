@@ -24,7 +24,7 @@ publishDate: '2019-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *SPIE Photonics West*
+publication: "*SPIE Photonics West*, 2019."
 publication_short: ''
 
 abstract: ''

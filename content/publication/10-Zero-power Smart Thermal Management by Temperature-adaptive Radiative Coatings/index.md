@@ -1,5 +1,5 @@
 ---
-title: 'Zero-power Smart Thermal Management by Temperature-adaptive Radiative Coatings. 25th Annual Conference of the Chinese Society of Micro-Nano Technology & 14th International conference of the Chinese Society of Micro-Nano Technology'
+title: 'Zero-power Smart Thermal Management by Temperature-adaptive Radiative Coatings.'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -23,7 +23,7 @@ publishDate: '2023-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *25th Annual Conference of the Chinese Society of Micro-Nano Technology & 14th International conference of the Chinese Society of Micro-Nano Technology*
+publication: "*25th Annual Conference of the Chinese Society of Micro-Nano Technology & 14th International conference of the Chinese Society of Micro-Nano Technology*, 2023."
 publication_short: ''
 
 abstract: ''

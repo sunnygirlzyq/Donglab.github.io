@@ -1,5 +1,5 @@
 ---
-title: 'Programmable Photonics with Metal Insulator Transition. Materials Research Society (MRS) spring meeting'
+title: 'Programmable Photonics with Metal Insulator Transition.'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -23,7 +23,7 @@ publishDate: '2023-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Materials Research Society spring meeting*
+publication: "*Materials Research Society (MRS) spring meeting*, 2023."
 publication_short: In *MRS spring meeting*
 
 abstract: ''

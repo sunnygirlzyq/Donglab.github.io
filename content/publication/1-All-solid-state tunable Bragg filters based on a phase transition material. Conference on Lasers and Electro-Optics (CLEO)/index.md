@@ -1,5 +1,5 @@
 ---
-title: 'All-solid-state tunable Bragg filters based on a phase transition material. Conference on Lasers and Electro-Optics (CLEO)'
+title: 'All-solid-state tunable Bragg filters based on a phase transition material.'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -29,7 +29,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Conference on Lasers and Electro-Optics (CLEO)*
+publication: "*Conference on Lasers and Electro-Optics (CLEO)*, 2017."
 publication_short: In *CLEO*
 
 abstract: ''

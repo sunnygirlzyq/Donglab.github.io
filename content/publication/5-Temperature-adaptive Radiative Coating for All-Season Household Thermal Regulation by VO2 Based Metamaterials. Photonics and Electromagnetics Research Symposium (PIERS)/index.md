@@ -1,5 +1,5 @@
 ---
-title: 'Temperature-adaptive Radiative Coating for All-Season Household Thermal Regulation by VO2 Based Metamaterials. Photonics and Electromagnetics Research Symposium (PIERS)'
+title: 'Temperature-adaptive Radiative Coating for All-Season Household Thermal Regulation by VO2 Based Metamaterials.'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -38,7 +38,7 @@ publishDate: '2022-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *PhotonIcs and Electromagnetics Research Symposium*
+publication: "*Photonics and Electromagnetics Research Symposium (PIERS)*, 2022."
 publication_short: In *PIERS*
 
 abstract: ''
