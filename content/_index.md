@@ -8,8 +8,8 @@ sections:
   - block: hero
     content:
       title: |
-        <a href="https://www.tsinghua.edu.cn/" target="_blank">
-          <img src="media/tsinghua_logo.jpg" alt="Tsinghua University Logo" height="5">
+        <a href="https://www.sigs.tsinghua.edu.cn/" target="_blank">
+          <img src="media/Tsinghua-SIGS-logo.png" alt="Tsinghua University Logo" height="5">
         </a>
       image:
         filename: Intro.png
