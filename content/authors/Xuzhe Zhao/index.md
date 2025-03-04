@@ -16,8 +16,10 @@ superuser: false
 # Role/position
 role: |
  Ph.D Student, started Sept. 2023
- Bachelor of Engineering, School of Telecommunications Engineering, Xidian University.
- Bachelor of Engineering in Telecommunications Engineering with Honours of the first class, Heriot-Watt University.
+ Bachelor of Engineering, 
+ School of Telecommunications Engineering, Xidian University
+ Bachelor of Engineering,
+ Telecommunications Engineering with Honours of the first class,Heriot-Watt University.
 education:
   courses:
     - course: Bachelor of Engineering
