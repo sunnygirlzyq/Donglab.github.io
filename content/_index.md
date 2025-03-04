@@ -11,25 +11,29 @@ sections:
     content:
       title: ""  # 避免默认标题
       text: |
-        <div style="display: flex; justify-content: center; align-items: center; width: 100%; max-width: 1100px; margin: 0 auto; gap: 30px; flex-wrap: wrap;">
+        <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; width: 100%; max-width: 1100px; margin: 0 auto; text-align: center;">
 
-          <!-- 左侧：Logo + 文本 -->
-          <div style="flex: 1; text-align: left; min-width: 400px;">
+          <!-- 图片区域 -->
+          <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+            <!-- 左侧 Logo -->
             <a href="https://www.sigs.tsinghua.edu.cn/" target="_blank">
               <img src="media/Tsinghua-SIGS-logo.png" alt="Tsinghua University Logo"
-                   style="height: 100px; max-width: 100%; margin-bottom: 15px;">
+                   style="height: 100px; max-width: 100%; border-radius: 10px;">
             </a>
+
+            <!-- 右侧 Intro 图片 -->
+            <img src="media/Intro.png" alt="Intro Image"
+                 style="height: 100px; max-width: 100%; border-radius: 10px;">
+          </div>
+
+          <!-- 文字描述 -->
+          <div style="margin-top: 20px; max-width: 800px;">
             <p style="font-size: 16px; line-height: 1.6;">
               We are a research group at <strong>Institute of Data and Information, Tsinghua Shenzhen International Graduate School.</strong>
               Our team is led by <strong>Dr. Kaichen Dong</strong>. Our group focuses on research topics related to
               <strong>Temperature-adaptive Radiative Cooling, Moiré Photonics, Metamaterials/Metasurfaces, Zero-power Smart MEMS Sensors, and AI for Science</strong>.
+              <a href="./publication/" style="font-weight: bold; color: #0056b3; text-decoration: none;">(see publications →)</a>
             </p>
-          </div>
-
-          <!-- 右侧：Intro 图片 -->
-          <div style="flex: 1; text-align: right; min-width: 400px;">
-            <img src="media/Intro.png" alt="Intro Image"
-                 style="max-height: 200px; max-width: 100%; border-radius: 10px;">
           </div>
 
         </div>
@@ -70,4 +74,5 @@ sections:
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
+
 ---
