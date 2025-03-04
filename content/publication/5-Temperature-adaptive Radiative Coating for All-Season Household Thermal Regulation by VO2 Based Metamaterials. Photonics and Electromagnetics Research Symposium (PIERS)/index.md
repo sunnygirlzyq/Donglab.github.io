@@ -56,7 +56,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'content\publication\5-Temperature-adaptive Radiative Coating for All-Season Household Thermal Regulation by VO2 Based Metamaterials. Photonics and Electromagnetics Research Symposium (PIERS)\conference-paper.pdf'
+url_pdf: 'https://www.science.org/doi/epdf/10.1126/science.abf7136'
 url_code: ''
 url_dataset: ''
 url_poster: ''

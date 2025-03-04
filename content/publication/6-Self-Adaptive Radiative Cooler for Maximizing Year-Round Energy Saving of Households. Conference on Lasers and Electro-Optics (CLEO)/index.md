@@ -55,7 +55,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'content\publication\6-Self-Adaptive Radiative Cooler for Maximizing Year-Round Energy Saving of Households. Conference on Lasers and Electro-Optics (CLEO)\conference-paper.pdf'
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/9889847'
 url_code: ''
 url_dataset: ''
 url_poster: ''
