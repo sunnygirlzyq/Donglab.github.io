@@ -15,7 +15,7 @@ superuser: false
 
 # Role/position
 role: |
- Ph.D Student, started Sept. 2024
+ Ph.D Student, started Sept. 2024<br>
  Weiyang College, Tsinghua University.
 
 education:

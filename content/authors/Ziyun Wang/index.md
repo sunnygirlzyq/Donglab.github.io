@@ -15,7 +15,7 @@ superuser: false
 
 # Role/position
 role: |
- Master Student, started Sept. 2025
+ Master Student, started Sept. 2025<br>
  Weiyang College, Tsinghua University
 
 education:

@@ -15,7 +15,7 @@ superuser: false
 
 # Role/position
 role: | 
-  Master Student, started Sept. 2024
+  Master Student, started Sept. 2024<br>
   School of Mechano-Electronic Engineering, Xidian University.
 education:
   courses:
