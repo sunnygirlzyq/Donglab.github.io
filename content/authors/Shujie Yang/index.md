@@ -14,8 +14,9 @@ authors:
 superuser: false
 
 # Role/position
-role: Master Student, started Sept. 2023
-
+role: |
+ Master Student, started Sept. 2023
+ Bachelor of Science, School of Mathematics and Statistics, Xi'an Jiaotong University.
 education:
   courses:
     - course: Bachelor of Science

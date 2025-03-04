@@ -1,20 +1,22 @@
 ---
 # Display name
-title: Jiahao Chen
+title: Jiahao Cheng
 
 # Full name (for SEO)
 first_name: Jiahao
-last_name: Chen
+last_name: Cheng
 
 # Username (this should match the folder name)
 authors:
-  - Jiahao Chen
+  - Jiahao Cheng
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Master Student, started Sept. 2024
+role: | 
+  Master Student,started Sept. 2024
+  Bachelor of Mechanical Engineering, School of Aerospace Engineering, Tsinghua University.
 
 education:
     - course: Bachelor of Mechanical Engineering

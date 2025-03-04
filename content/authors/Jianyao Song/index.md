@@ -14,8 +14,10 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D Student, started Sept. 2024
-
+role: |
+ Ph.D Student, started Sept. 2024
+ Bachelor of Engineering, School of Mechanical Engineering and Automation, Northeastern University.
+ Master of Engineering, School of Mechanical Engineering and Automation, Northeastern University.
 education:
   courses:
     - course: Bachelor of Engineering

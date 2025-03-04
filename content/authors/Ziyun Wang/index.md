@@ -14,7 +14,9 @@ authors:
 superuser: false
 
 # Role/position
-role: Master Student, started Sept. 2025
+role: |
+ Master Student, started Sept. 2025
+ Bachelor of double degree in Basic Math and Physics & Material Science and  Engineering, Weiyang College, Tsinghua University
 
 education:
   courses:

@@ -14,8 +14,9 @@ authors:
 superuser: false
 
 # Role/position
-role: Master Student, started Sept. 2024
-
+role: | 
+  Master Student, started Sept. 2024
+  Bachelor of Artificial intelligence, School of Artificial intelligence, Southeast University.
 education:
   courses:
     - course: Bachelor of Artificial intelligence 
