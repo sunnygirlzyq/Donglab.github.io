@@ -18,16 +18,15 @@ sections:
             <!-- 左侧 Logo -->
             <a href="https://www.sigs.tsinghua.edu.cn/" target="_blank">
               <img src="media/Tsinghua-SIGS-logo.png" alt="Tsinghua University Logo"
-                   style="height: 100px; max-width: 100%; border-radius: 10px;">
+                   style="height: 200px; max-width: 100%; border-radius: 10px;">
             </a>
 
-            <!-- 右侧 Intro 图片 -->
             
           </div>
 
           <div style="display: flex; justify-content: right; align-items: right; gap: 30px; flex-wrap: wrap;">
             <img src="media/Intro.png" alt="Intro Image"
-                 style="height: 100px; max-width: 100%; border-radius: 10px;">
+                 style="height: 200px; max-width: 100%; border-radius: 10px;">
           </div>
 
           <!-- 文字描述 -->
