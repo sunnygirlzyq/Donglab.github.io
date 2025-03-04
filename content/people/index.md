@@ -16,7 +16,7 @@ sections:
           - Graduate Students
           - Undergraduates
     design:
-      show_organizations: true
+      show_organizations: false
       show_interests: false
       show_social: true
       show_role: true
