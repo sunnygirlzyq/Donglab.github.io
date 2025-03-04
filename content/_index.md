@@ -9,12 +9,14 @@ sections:
     design:
       columns: '2'  # ✅ 让 Logo+文字 和 图片 各占 50%
     content:
-      custom_html: |
-        <div style="display: flex; align-items: center; gap: 20px;">
+      title: ""  # 避免默认标题
+      text: |
+        <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
           <!-- 左侧：Logo + 文字 -->
-          <div style="flex: 1; text-align: left;">
+          <div style="flex: 1; text-align: left; min-width: 300px;">
             <a href="https://www.sigs.tsinghua.edu.cn/" target="_blank">
-              <img src="media/Tsinghua-SIGS-logo.png" alt="Tsinghua University Logo" style="height: 80px; max-width: 100%;">
+              <img src="media/Tsinghua-SIGS-logo.png" alt="Tsinghua University Logo" 
+                   style="height: 80px; max-width: 100%; margin-bottom: 10px;">
             </a>
             <p style="font-size: 18px; line-height: 1.5; margin-top: 10px;">
               We are a research group at <strong>Institute of Data and Information, Tsinghua Shenzhen International Graduate School.</strong>
@@ -25,8 +27,9 @@ sections:
           </div>
 
           <!-- 右侧：Intro 图片 -->
-          <div style="flex: 1; text-align: right;">
-            <img src="media/Intro.png" alt="Intro Image" style="max-height: 200px; max-width: 100%; border-radius: 10px;">
+          <div style="flex: 1; text-align: right; min-width: 300px;">
+            <img src="media/Intro.png" alt="Intro Image" 
+                 style="max-height: 200px; max-width: 100%; border-radius: 10px;">
           </div>
         </div>
 
