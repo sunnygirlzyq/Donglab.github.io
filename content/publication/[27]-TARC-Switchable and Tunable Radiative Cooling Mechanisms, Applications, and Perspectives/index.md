@@ -5,10 +5,10 @@ title: 'Switchable and Tunable Radiative Cooling: Mechanisms, Applications, and 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Xuzhe Zhao# 
-  - Jiachen Li# 
-  - admin * 
-  - Junqiao Wu *
+  - Xuzhe Zhao
+  - Jiachen Li
+  - admin 
+  - Junqiao Wu 
 
 # Author notes (optional)
 # author_notes:
