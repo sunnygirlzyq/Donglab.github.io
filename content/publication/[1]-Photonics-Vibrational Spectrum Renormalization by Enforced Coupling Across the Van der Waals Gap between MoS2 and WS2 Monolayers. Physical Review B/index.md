@@ -5,7 +5,7 @@ authors:
 - Xi Zhu
 - Feng Ke
 - Yabin Chen
-- admin
+- Kaichen Dong
 - Jie Ji
 - Bin Chen
 - Sefaattin Tongay
