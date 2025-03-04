@@ -13,8 +13,8 @@ sections:
       text: |
         <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; width: 100%; max-width: 1100px; margin: 0 auto; text-align: center;">
 
-          <!-- 图片区域 -->
-          <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+          <!-- 图片区域 (Logo + Intro) -->
+          <div style="display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap;">
             <!-- 左侧 Logo -->
             <a href="https://www.sigs.tsinghua.edu.cn/" target="_blank">
               <img src="media/Tsinghua-SIGS-logo.png" alt="Tsinghua University Logo"
@@ -32,7 +32,8 @@ sections:
               We are a research group at <strong>Institute of Data and Information, Tsinghua Shenzhen International Graduate School.</strong>
               Our team is led by <strong>Dr. Kaichen Dong</strong>. Our group focuses on research topics related to
               <strong>Temperature-adaptive Radiative Cooling, Moiré Photonics, Metamaterials/Metasurfaces, Zero-power Smart MEMS Sensors, and AI for Science</strong>.
-              <a href="./publication/" style="font-weight: bold; color: #0056b3; text-decoration: none;">(see publications →)</a>
+              <br>
+              <a href="{{ "/publication/" | absURL }}" style="font-weight: bold; color: #0056b3; text-decoration: none;">(see publications →)</a>
             </p>
           </div>
 
@@ -65,7 +66,7 @@ sections:
     design:
       view: citation
       columns: '1'
-      css_class: small-text
+      css_class: small-text  # ✅ 让 Latest Preprints 字体变小 (14px)
 
   - block: markdown
     content:
@@ -74,5 +75,4 @@ sections:
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
-
 ---
