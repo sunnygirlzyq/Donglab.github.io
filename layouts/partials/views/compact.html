@@ -48,20 +48,10 @@
       <span class="small-font"><strong>{{ $item.Title }}</strong></span>
     </div>
 
-    <!-- 显示 publication -->
+    <!-- 显示 publication，字体颜色为浅灰色 -->
     {{ if $item.Params.publication }}
-      <div class="publication small-font">
-        <strong>Publication:</strong> {{ $item.Params.publication | markdownify }}
-      </div>
-    {{ end }}
-
-    <!-- 显示 publication_types -->
-    {{ if $item.Params.publication_types }}
-      <div class="publication-type small-font">
-        <strong>Type:</strong> 
-        {{ range $index, $type := $item.Params.publication_types }}
-          {{- if $index }}, {{ end }}{{ $type }}
-        {{ end }}
+      <div class="publication small-font" style="color: gray;">
+        {{ $item.Params.publication | markdownify }}
       </div>
     {{ end }}
 
@@ -72,13 +62,12 @@
     </div>
     {{ end }}
 
-    <!-- 作者部分，去掉超链接，并加粗 "Kaichen Dong" -->
+    <!-- 作者部分，字体颜色浅灰色，并加粗 "Kaichen Dong" 和 "K. Dong" -->
     {{ if $item.Params.authors }}
-      <div class="article-authors small-font">
-        <strong>Authors:</strong> 
+      <div class="article-authors small-font" style="color: gray;">
         {{ range $index, $author := $item.Params.authors }}
           {{- if $index }}, {{ end }}
-          {{- if eq $author "Kaichen Dong" }}
+          {{- if or (eq $author "Kaichen Dong") (eq $author "K. Dong") }}
             <strong>{{ $author }}</strong>
           {{- else }}
             {{ $author }}
