@@ -16,7 +16,9 @@ superuser: false
 # Role/position
 role: |
  Ph.D Student, started Sept. 2024
- Bachelor of double degree in Basic Math and Physics & Microelectronic Engineering, Weiyang College, Tsinghua University.
+ 
+ Weiyang College, Tsinghua University.
+ 
 education:
   courses:
     - course: Bachelor of double degree in Basic Math and Physics & Microelectronic Engineering

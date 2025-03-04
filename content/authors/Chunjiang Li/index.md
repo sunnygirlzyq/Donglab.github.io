@@ -16,7 +16,8 @@ superuser: false
 # Role/position
 role: |
  Ph.D Student, started Sept. 2023
- Bachelor of Science, School of Physics, Peking University.
+ 
+ School of Physics, Peking University.
 
 education:
   courses:

@@ -16,7 +16,8 @@ superuser: false
 # Role/position
 role: | 
   Master Student,started Sept. 2024
-  Bachelor of Mechanical Engineering, School of Aerospace Engineering, Tsinghua University.
+  
+  School of Aerospace Engineering, Tsinghua University.
 
 education:
     - course: Bachelor of Mechanical Engineering

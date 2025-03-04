@@ -16,7 +16,7 @@ superuser: false
 # Role/position
 role: | 
   Master Student, started Sept. 2024
-  Bachelor of Engineering, School of Mechano-Electronic Engineering, Xidian University.
+  School of Mechano-Electronic Engineering, Xidian University.
 education:
   courses:
     - course: Bachelor of Engineering
