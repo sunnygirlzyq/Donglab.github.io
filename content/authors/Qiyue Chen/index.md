@@ -16,7 +16,6 @@ superuser: false
 # Role/position
 role: |
  Master Student, started Sept. 2023
- 
  Beijing Information Science & Technology University.
 
 education:

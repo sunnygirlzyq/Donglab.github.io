@@ -16,7 +16,6 @@ superuser: false
 # Role/position
 role: | 
   Master Student,started Sept. 2024
-  
   School of Aerospace Engineering, Tsinghua University.
 
 education:

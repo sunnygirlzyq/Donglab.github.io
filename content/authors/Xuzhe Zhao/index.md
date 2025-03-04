@@ -16,10 +16,9 @@ superuser: false
 # Role/position
 role: |
  Ph.D Student, started Sept. 2023
-
  School of Telecommunications Engineering, Xidian University
-
  Telecommunications Engineering with Honours of the first class,Heriot-Watt University.
+ 
 education:
   courses:
     - course: Bachelor of Engineering
