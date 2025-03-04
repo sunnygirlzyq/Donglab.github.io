@@ -7,29 +7,26 @@ type: landing
 sections:
   - block: hero
     design:
-      columns: '2'  # ✅ 确保整个 hero 模块是一个整体
+      columns: '1'  # ✅ 确保整个 hero 模块是一个整体
     content:
-      title: ""  # 避免默认标题
-      image:
-        filename: "media/Tsinghua-SIGS-logo.png"
-        alt: "Tsinghua University Logo"
-        width: 200px
-      image_second:
-        filename: "media/Intro.png"
-        alt: "Intro Image"
-        width: 200px
       text: |
+        <a href="https://www.sigs.tsinghua.edu.cn/" target="_blank">
+          <img src="media/Tsinghua-SIGS-logo.png" alt="Tsinghua University Logo" height="50">
+        </a>
+      image:
+        filename: Intro.png
+      text: |
+          <!-- 文字描述 -->
           <div style="margin-top: 20px; max-width: 800px;">
-            <p style="font-size: 14px; line-height: 1.6;">
+            <p style="font-size: 16px; line-height: 1.6;">
               We are a research group at <strong>Institute of Data and Information, Tsinghua Shenzhen International Graduate School.</strong>
               Our team is led by <strong>Dr. Kaichen Dong</strong>. Our group focuses on research topics related to
               <strong>Temperature-adaptive Radiative Cooling, Moiré Photonics, Metamaterials/Metasurfaces, Zero-power Smart MEMS Sensors, and AI for Science</strong>.
-              <br>
-              <a href="{{ "/publication/" | absURL }}" style="font-weight: bold; color: #0056b3; text-decoration: none;">(see publications →)</a>
+              <a href="./publication/" style="font-weight: bold; color: #0056b3; text-decoration: none;">(see publications →)</a>
             </p>
           </div>
 
-        
+
 
   - block: collection
     content:
@@ -58,7 +55,7 @@ sections:
     design:
       view: citation
       columns: '1'
-      css_class: small-text  # ✅ 让 Latest Preprints 字体变小 (14px)
+      css_class: small-text
 
   - block: markdown
     content:
@@ -67,4 +64,5 @@ sections:
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
+
 ---
