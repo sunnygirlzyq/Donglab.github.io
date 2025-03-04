@@ -5,7 +5,7 @@ title: KaiChen Dong
 # Full Name (for SEO)
 first_name: KaiChen
 last_name: Dong
-
+weight: 100
 # Is this the primary user of the site?
 superuser: true
 
