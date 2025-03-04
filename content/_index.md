@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: hero
     design:
-      columns: '1'  # ✅ 确保整个 hero 模块是一个整体
+      columns: '2'  # ✅ 确保整个 hero 模块是一个整体
     content:
       title: ""  # 避免默认标题
       text: |
