@@ -22,22 +22,39 @@
   {{ $summary = $item.Summary }}
 {{ end }}
 
-<div class="media stream-item view-compact" style="font-size: 14px; line-height: 1.6;">
+<div class="media stream-item view-compact">
   <div class="media-body">
 
-    <!-- 移除文章标题的超链接，并调整字体大小 -->
-    <div class="section-subheading article-title mb-0 mt-0" style="font-size: 16px; font-weight: bold;">
+    <!-- 文章标题 -->
+    <div class="section-subheading article-title mb-0 mt-0">
       <span>{{ $item.Title }}</span>
     </div>
 
-    <!-- 移除摘要的超链接，并调整字体大小 -->
+    <!-- 显示 publication -->
+    {{ if $item.Params.publication }}
+      <div class="publication">
+        <strong>Publication:</strong> {{ $item.Params.publication | markdownify }}
+      </div>
+    {{ end }}
+
+    <!-- 显示 publication_types，修正 `delimit` 报错 -->
+    {{ if $item.Params.publication_types }}
+      <div class="publication-type">
+        <strong>Type:</strong> 
+        {{ range $index, $type := $item.Params.publication_types }}
+          {{- if $index }}, {{ end }}{{ $type }}
+        {{ end }}
+      </div>
+    {{ end }}
+
+    <!-- 显示摘要 -->
     {{ with $summary }}
-    <div class="article-style" style="font-size: 14px; color: #333;">
+    <div class="article-style">
       {{.}}
     </div>
     {{ end }}
 
-    <div class="stream-meta article-metadata" style="font-size: 12px; color: #666;">
+    <div class="stream-meta article-metadata">
       {{ if eq $item.Type "event" }}
       <div>
         <span>
@@ -61,21 +78,20 @@
 
     {{ if $has_attachments }}
     <div class="btn-links">
-      <!-- 这里原本会有附件的超链接，已去掉 -->
-      <span style="font-size: 12px;">{{ partial "page_links" (dict "page" $item "is_list" 1) }}</span>
+      <span>{{ partial "page_links" (dict "page" $item "is_list" 1) }}</span>
     </div>
     {{ end }}
 
   </div>
 
-  <!-- 移除文章图片的超链接，并调整图片的显示比例 -->
+  <!-- 文章图片 -->
   <div class="ml-3">
     {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
     {{ with $resource }}
       {{ $image := .Resize "150x" }}
       {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
       <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
-          alt="{{ $item.Title }}" loading="lazy" style="max-width: 100%; height: auto;">
+          alt="{{ $item.Title }}" loading="lazy">
     {{end}}
   </div>
 </div>
