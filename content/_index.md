@@ -8,17 +8,15 @@ sections:
   - block: hero
     design:
       columns: '1'  # ✅ 确保整个 hero 模块是一个整体
-    content:
-      text: |
-        <div style="text-align: center;">
-          <a href="https://www.sigs.tsinghua.edu.cn/" target="_blank">
-            <img src="media/Tsinghua-SIGS-logo.png" alt="Tsinghua University Logo" height="50">
-          </a>
-        </div>
+    content:   
       image:
         filename: Intro.png
       text: |
-         
+          <div style="text-align: center;">
+            <a href="https://www.sigs.tsinghua.edu.cn/" target="_blank">
+              <img src="media/Tsinghua-SIGS-logo.png" alt="Tsinghua University Logo" height="50">
+            </a>
+          </div>
           <!-- 文字描述 -->
           <div style="margin-top: 20px; max-width: 800px;">
             <p style="font-size: 16px; line-height: 1.6;">
