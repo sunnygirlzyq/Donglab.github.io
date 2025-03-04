@@ -5,7 +5,7 @@ title: Zhiyun Wang
 # Full name (for SEO)
 first_name: Zhiyun
 last_name: Wang
-
+weight: 6
 # Username (this should match the folder name)
 authors:
   - Zhiyun Wang

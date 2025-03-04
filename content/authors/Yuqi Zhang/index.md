@@ -5,7 +5,7 @@ title: Yuqi Zhang
 # Full name (for SEO)
 first_name: Yuqi
 last_name: Zhang
-
+weight: 8
 # Username (this should match the folder name)
 authors:
   - Yuqi Zhang

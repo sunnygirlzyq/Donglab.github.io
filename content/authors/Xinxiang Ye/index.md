@@ -5,7 +5,7 @@ title: Xinxiang Ye
 # Full name (for SEO)
 first_name: Xinxiang
 last_name: Ye
-
+weight: 5
 # Username (this should match the folder name)
 authors:
   - Xinxiang Ye

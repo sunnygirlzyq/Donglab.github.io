@@ -5,7 +5,7 @@ title: Shujie Yang
 # Full name (for SEO)
 first_name: Shujie 
 last_name: Yang
-
+weight: 3
 # Username (this should match the folder name)
 authors:
   - Shujie Yang

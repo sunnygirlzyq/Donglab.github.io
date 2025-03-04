@@ -5,7 +5,7 @@ title: Qiyue Chen
 # Full name (for SEO)
 first_name: Qiyue 
 last_name: Chen
-
+weight: 4
 # Username (this should match the folder name)
 authors:
   - Qiyue Chen

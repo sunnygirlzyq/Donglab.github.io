@@ -5,7 +5,7 @@ title: Chunjiang Li
 # Full name (for SEO)
 first_name: Chunjiang 
 last_name: Li
-
+weight: 2
 # Username (this should match the folder name)
 authors:
   - Chunjiang Li

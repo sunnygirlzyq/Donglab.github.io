@@ -5,7 +5,7 @@ title: Jiahao Cheng
 # Full name (for SEO)
 first_name: Jiahao
 last_name: Cheng
-
+weight: 7
 # Username (this should match the folder name)
 authors:
   - Jiahao Cheng

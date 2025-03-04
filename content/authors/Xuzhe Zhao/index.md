@@ -6,6 +6,7 @@ title: Xuzhe Zhao
 first_name: Xuzhe
 last_name: Zhao
 
+weight: 1
 # Username (this should match the folder name)
 authors:
   - Xuzhe Zhao
@@ -18,7 +19,7 @@ role: |
  Ph.D Student, started Sept. 2023
  School of Telecommunications Engineering, Xidian University
  Telecommunications Engineering with Honours of the first class,Heriot-Watt University.
- 
+
 education:
   courses:
     - course: Bachelor of Engineering
