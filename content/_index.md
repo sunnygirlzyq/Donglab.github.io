@@ -11,6 +11,9 @@ sections:
     content:   
       image:
         filename: Intro.png
+        width: 100%
+        height: 100px
+        alt: Intro Image
       text: |
           <div style="text-align: center;">
             <a href="https://www.sigs.tsinghua.edu.cn/" target="_blank">
