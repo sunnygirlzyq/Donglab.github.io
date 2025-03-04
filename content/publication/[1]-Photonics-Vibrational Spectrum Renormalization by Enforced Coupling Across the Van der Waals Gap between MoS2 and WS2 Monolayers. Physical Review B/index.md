@@ -18,7 +18,7 @@ date: "2015-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2015-01-01T00:00:00Z"
+publishDate: "2015-12-18T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -41,13 +41,13 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'content\publication\[1]-Photonics-Vibrational Spectrum Renormalization by Enforced Coupling Across the Van der Waals Gap between MoS2 and WS2 Monolayers. Physical Review B\PhysRevB.92.241408.pdf'
+url_pdf: 'https://journals.aps.org/prb/pdf/10.1103/PhysRevB.92.241408'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://journals.aps.org/prb/pdf/10.1103/PhysRevB.92.241408'
 url_video: ''
 
 # Featured image
