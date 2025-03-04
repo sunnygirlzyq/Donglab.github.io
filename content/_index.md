@@ -22,7 +22,7 @@ sections:
             </a>
 
             <!-- 右侧 Intro 图片 -->
-            <img src="static\media\Intro.png" alt="Intro Image"
+            <img src="media/Intro.png" alt="Intro Image"
                  style="height: 100px; max-width: 100%; border-radius: 10px;">
           </div>
 
