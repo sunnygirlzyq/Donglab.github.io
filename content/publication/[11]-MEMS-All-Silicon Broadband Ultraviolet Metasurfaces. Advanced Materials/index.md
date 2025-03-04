@@ -1,5 +1,5 @@
 ---
-title: "All-Silicon Broadband Ultraviolet Metasurfaces. Advanced Materials"
+title: "All-Silicon Broadband Ultraviolet Metasurfaces."
 authors:
 - admin
 author_notes:
@@ -15,7 +15,7 @@ publishDate: "2018-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Advanced Materials*"
+publication: "*Advanced Materials*, 30, 1802632 (2018)."
 publication_short: ""
 
 abstract: ''

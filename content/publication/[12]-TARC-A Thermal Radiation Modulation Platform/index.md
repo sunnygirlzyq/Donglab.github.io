@@ -1,5 +1,5 @@
 ---
-title: "A Thermal Radiation Modulation Platform by Emissivity Engineering with Graded Metal-Insulator Transition.Advanced Materials"
+title: "A Thermal Radiation Modulation Platform by Emissivity Engineering with Graded Metal-Insulator Transition."
 authors:
 - Kechao Tang
 - Xi Wang
@@ -25,7 +25,7 @@ publishDate: "2020-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Science*"
+publication: "*Science*, 32, 1907071 (2020)."
 publication_short: ""
 
 abstract: ''

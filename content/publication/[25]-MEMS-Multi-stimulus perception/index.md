@@ -34,7 +34,7 @@ publishDate: '2024-01-01T00:00:00Z'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: "*Science Advances*,10, eadp5215 (2024)"
+publication: "*Science Advances*, 10, eadp5215 (2024)."
 publication_short: ''
 
 abstract: ''

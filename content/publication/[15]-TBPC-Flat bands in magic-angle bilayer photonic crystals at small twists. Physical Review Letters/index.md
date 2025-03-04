@@ -1,5 +1,5 @@
 ---
-title: "Flat bands in magic-angle bilayer photonic crystals at small twists. Physical Review Letters"
+title: "Flat bands in magic-angle bilayer photonic crystals at small twists."
 authors:
 - admin
 - Tiancheng Zhang
@@ -24,7 +24,7 @@ publishDate: "2021-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Physical Review Letters*"
+publication: "*Physical Review Letters*, 126, 2223601 (2021)."
 publication_short: ""
 
 abstract: ''

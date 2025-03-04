@@ -1,5 +1,5 @@
 ---
-title: "Temperature-adaptive radiative coating for all-season household thermal regulation. Science"
+title: "Temperature-adaptive radiative coating for all-season household thermal regulation."
 authors:
 - Kechao Tang
 - admin
@@ -29,7 +29,7 @@ publishDate: "2021-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Science*"
+publication: "*Science*, 374, 1504-1509 (2021)."
 publication_short: ""
 
 abstract: ''

@@ -1,5 +1,5 @@
 ---
-title: "Reducing temperature swing of space objects with temperature-adaptive solar or radiative coating. Cell Reports Physical Science"
+title: "Reducing temperature swing of space objects with temperature-adaptive solar or radiative coating."
 authors:
 - admin
 - Derick Tseng
@@ -22,7 +22,7 @@ publishDate: "2022-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Cell Reports Physical Science*"
+publication: "*Cell Reports Physical Science*, 3, 101066 (2022)."
 publication_short: ""
 
 abstract: ''

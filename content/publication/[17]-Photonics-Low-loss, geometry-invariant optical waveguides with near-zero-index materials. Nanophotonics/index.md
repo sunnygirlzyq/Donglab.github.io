@@ -1,5 +1,5 @@
 ---
-title: "Low-loss, geometry-invariant optical waveguides with near-zero-index materials. Nanophotonics"
+title: "Low-loss, geometry-invariant optical waveguides with near-zero-index materials."
 authors:
 - Danqing Wang
 - admin
@@ -21,7 +21,7 @@ publishDate: "2022-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Nanophotonics*"
+publication: "*Nanophotonics*, 11, 4747-4753 (2022)."
 publication_short: ""
 
 abstract: ''

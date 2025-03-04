@@ -29,7 +29,7 @@ publishDate: "2016-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Small (2016)*"
+publication: "*Small*, 3976-3984 (2016)."
 publication_short: ""
 
 abstract: ''

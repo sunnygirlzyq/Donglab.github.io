@@ -1,5 +1,5 @@
 ---
-title: 'Single-pixel reconstructive mid-infrared micro-spectrometer. Optics Express'
+title: 'Single-pixel reconstructive mid-infrared micro-spectrometer.'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -33,7 +33,7 @@ publishDate: '2023-01-01T00:00:00Z'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Optical Express*
+publication: "*Optical Express*, 9, 14367-14376 (2023)."
 publication_short: In *OE*
 
 abstract: ''

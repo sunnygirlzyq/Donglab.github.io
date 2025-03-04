@@ -27,7 +27,7 @@ publishDate: '2024-07-02T00:00:00Z'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: "*ACS Nano*,18, 18118-18128 (2024)"
+publication: "*ACS Nano*, 18, 18118-18128 (2024)."
 publication_short: ''
 
 abstract: ''

@@ -30,7 +30,7 @@ publishDate: "2018-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Advanced Materials (2018)*"
+publication: "*Advanced Materials*, 30 (5), 1703878."
 publication_short: ""
 
 abstract: ''

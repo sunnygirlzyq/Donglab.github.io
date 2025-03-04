@@ -1,5 +1,5 @@
 ---
-title: "Room-temperature skyrmion lattice in a layered magnet (Fe0.5Co0.5)5GeTe2. Science Advances"
+title: "Room-temperature skyrmion lattice in a layered magnet (Fe0.5Co0.5)5GeTe2."
 authors:
 - Hongrui Zhang
 - David Raftery
@@ -33,7 +33,7 @@ publishDate: "2022-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Science Advances*"
+publication: "*Science Advances*, 8, abm7103 (2022)."
 publication_short: ""
 
 abstract: ''

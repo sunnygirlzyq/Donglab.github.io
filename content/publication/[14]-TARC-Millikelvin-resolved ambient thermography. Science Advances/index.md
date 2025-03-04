@@ -1,5 +1,5 @@
 ---
-title: "Millikelvin-resolved ambient thermography. Science Advances"
+title: "Millikelvin-resolved ambient thermography."
 authors:
 - Kechao Tang
 - Kaichen Dong
@@ -24,7 +24,7 @@ publishDate: "2020-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "* Science Advances*"
+publication: "*Science Advances*, 6, eabd8688 (2020)."
 publication_short: ""
 
 abstract: ''

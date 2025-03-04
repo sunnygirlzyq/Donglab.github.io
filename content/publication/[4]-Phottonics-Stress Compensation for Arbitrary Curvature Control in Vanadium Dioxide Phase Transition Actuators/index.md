@@ -21,7 +21,7 @@ publishDate: "2016-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Applied Physics Letters (2016)*"
+publication: "*Applied Physics Letters*, 109, 023504 (2016)."
 publication_short: ""
 
 abstract: ''

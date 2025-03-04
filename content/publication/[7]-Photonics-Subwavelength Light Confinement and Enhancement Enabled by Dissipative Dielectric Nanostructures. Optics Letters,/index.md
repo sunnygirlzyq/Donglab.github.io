@@ -1,5 +1,5 @@
 ---
-title: 'Subwavelength Light Confinement and Enhancement Enabled by Dissipative Dielectric Nanostructures. Optics Letters,'
+title: 'Subwavelength Light Confinement and Enhancement Enabled by Dissipative Dielectric Nanostructures.'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -24,7 +24,7 @@ publishDate: '2024-01-01T00:00:00Z'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: "*Optics Letters (2024)*"
+publication: "*Optics Letters*, 43 , 1826-1829 (2018)."
 publication_short: ''
 abstract: ''
 

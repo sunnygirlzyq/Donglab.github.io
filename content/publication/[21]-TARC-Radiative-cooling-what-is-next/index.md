@@ -25,7 +25,7 @@ publishDate: '2023-01-01T00:00:00Z'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Next Energy*
+publication: "*Next Energy*, 1, 100003 (2023)."
 publication_short: ''
 
 abstract: ''

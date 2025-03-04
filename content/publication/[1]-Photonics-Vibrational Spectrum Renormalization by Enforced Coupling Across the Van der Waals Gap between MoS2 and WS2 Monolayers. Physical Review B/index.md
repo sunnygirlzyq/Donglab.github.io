@@ -26,7 +26,7 @@ publishDate: "2015-12-18T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Physical Review B (2015)*"
+publication: "*Physical Review B*, 92, 241408 (2015)."
 publication_short: ""
 
 abstract: ''

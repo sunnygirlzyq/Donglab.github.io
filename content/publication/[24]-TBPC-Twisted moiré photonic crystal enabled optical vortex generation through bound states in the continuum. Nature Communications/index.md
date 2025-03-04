@@ -26,7 +26,7 @@ publishDate: "2023-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Nature Communications*,14, 6014 (2023)"
+publication: "*Nature Communications*, 14, 6014 (2023)."
 publication_short: ""
 
 abstract: ''

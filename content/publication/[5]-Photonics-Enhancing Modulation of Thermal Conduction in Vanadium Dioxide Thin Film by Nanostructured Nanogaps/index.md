@@ -23,7 +23,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Scientific Reports (2017)*"
+publication: "*Scientific Reports*, 7, 7131 (2017)."
 publication_short: ""
 
 abstract: ''

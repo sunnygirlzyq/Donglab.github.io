@@ -1,5 +1,5 @@
 ---
-title: "Measurement of Residual Stresses in Pulsed Laser Deposited Thin Films. Optics and Precision Engineering"
+title: "Measurement of Residual Stresses in Pulsed Laser Deposited Thin Films."
 authors:
 - admin
 - Shuai Lou
@@ -19,7 +19,7 @@ publishDate: "2018-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Science (2018)*"
+publication: "*Optics and Precision Engineering*, 26, 70-76 (2018)."
 publication_short: ""
 
 abstract: ''

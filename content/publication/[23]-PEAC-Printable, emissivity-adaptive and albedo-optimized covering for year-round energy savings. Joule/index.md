@@ -1,5 +1,5 @@
 ---
-title: "Printable, emissivity-adaptive and albedo-optimized covering for year-round energy savings. Joule"
+title: "Printable, emissivity-adaptive and albedo-optimized covering for year-round energy savings."
 authors:
 - Jiachen Li
 - admin 
@@ -32,7 +32,7 @@ publishDate: "2023-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Joule*, 7, 1-16 (2023)"
+publication: "*Joule*, 7, 1-16 (2023)."
 publication_short: ""
 
 abstract: ''

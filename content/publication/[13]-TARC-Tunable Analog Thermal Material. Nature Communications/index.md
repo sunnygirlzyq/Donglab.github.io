@@ -1,5 +1,5 @@
 ---
-title: "Tunable Analog Thermal Material. Nature Communications"
+title: "Tunable Analog Thermal Material."
 authors:
 - Guoqiang Xu
 - admin
@@ -22,7 +22,7 @@ publishDate: "2020-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Nature Communications*"
+publication: "*Nature Communications*, 11, 6028 (2020)."
 publication_short: ""
 
 abstract: ''
