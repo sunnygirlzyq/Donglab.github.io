@@ -15,7 +15,7 @@ superuser: false
 
 # Role/position
 role: |
- Ph.D Student, started Sept. 2023
+ Ph.D Student, started Sept. 2023<br>
  School of Physics, Peking University.
 
 education:
