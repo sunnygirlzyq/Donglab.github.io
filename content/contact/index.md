@@ -17,7 +17,7 @@ sections:
         country: China
         country_code: CN
       directions: Room 1203A, Information Building, Tsinghua Shenzhen International Graduate School
-      appointment_url: 'https://calendly.com'
+    
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
