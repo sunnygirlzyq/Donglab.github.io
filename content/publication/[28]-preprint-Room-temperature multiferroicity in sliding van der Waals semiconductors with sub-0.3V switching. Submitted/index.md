@@ -17,7 +17,7 @@ authors:
  - X. Chen
  - T. Zhang
  - Y. Cai
- - Kaichen Dong
+ - K. Dong
  - Y. Liu
  - K. Watanabe
  - T. Taniguchi
