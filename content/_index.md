@@ -16,9 +16,9 @@ sections:
           <div style="flex: 1; text-align: left; min-width: 300px;">
             <a href="https://www.sigs.tsinghua.edu.cn/" target="_blank">
               <img src="media/Tsinghua-SIGS-logo.png" alt="Tsinghua University Logo" 
-                   style="height: 80px; max-width: 100%; margin-bottom: 10px;">
+                   style="height: 120px; max-width: 100%; margin-bottom: 10px;">
             </a>
-            <p style="font-size: 18px; line-height: 1.5; margin-top: 10px;">
+            <p style="font-size: 14px; line-height: 1.5; margin-top: 10px;">
               We are a research group at <strong>Institute of Data and Information, Tsinghua Shenzhen International Graduate School.</strong>
               Our team is led by <strong>Dr. Kaichen Dong</strong>. Our group focuses on research topics related to
               <strong>Temperature-adaptive Radiative Cooling, Moiré Photonics, Metamaterials/Metasurfaces, Zero-power Smart MEMS Sensors, and AI for Science</strong>
