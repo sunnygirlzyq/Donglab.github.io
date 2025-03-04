@@ -39,7 +39,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'content\publication\[14]-TARC-Millikelvin-resolved ambient thermography. Science Advances\sciadv.abd8688.pdf'
+url_pdf: 'https://www.science.org/doi/epdf/10.1126/sciadv.abd8688'
 url_code: ''
 url_dataset: ''
 url_poster: ''

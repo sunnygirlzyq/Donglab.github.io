@@ -43,7 +43,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'content\publication\[8]-MEMS-A 0.2 V micro-electromechanical switch enabled by a phase transition. Small\Small - 2018 - Dong - A 0 2 V Micro‐Electromechanical Switch Enabled by a Phase Transition.pdf'
+url_pdf: 'https://onlinelibrary.wiley.com/doi/epdf/10.1002/smll.201703621'
 url_code: ''
 url_dataset: ''
 url_poster: ''

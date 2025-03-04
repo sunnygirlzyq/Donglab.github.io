@@ -44,7 +44,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'content\publication\[12]-MEMS-All-Silicon Broadband Ultraviolet Metasurfaces. Advanced Materials\Advanced Materials - 2018 - Deng - All‐Silicon Broadband Ultraviolet Metasurfaces.pdf'
+url_pdf: 'https://advanced.onlinelibrary.wiley.com/doi/epdf/10.1002/adma.201703878'
 url_code: ''
 url_dataset: ''
 url_poster: ''

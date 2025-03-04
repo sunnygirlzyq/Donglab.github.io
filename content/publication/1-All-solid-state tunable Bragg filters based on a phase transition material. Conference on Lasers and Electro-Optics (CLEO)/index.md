@@ -47,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'content\publication\1-All-solid-state tunable Bragg filters based on a phase transition material. Conference on Lasers and Electro-Optics (CLEO)\conference-paper.pdf'
+url_pdf: 'https://opg.optica.org/view_article.cfm?pdfKey=9b472bf1-6b46-4939-8a4459279bb47d6d_366141'
 url_code: ''
 url_dataset: ''
 url_poster: ''

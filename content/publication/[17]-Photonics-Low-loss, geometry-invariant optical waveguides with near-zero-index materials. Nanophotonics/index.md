@@ -36,7 +36,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'content\publication\[17]--Low-loss, geometry-invariant optical waveguides with near-zero-index materials. Nanophotonics\10.1515_nanoph-2022-0445.pdf'
+url_pdf: 'https://www.degruyter.com/document/doi/10.1515/nanoph-2022-0445/html'
 url_code: ''
 url_dataset: ''
 url_poster: ''

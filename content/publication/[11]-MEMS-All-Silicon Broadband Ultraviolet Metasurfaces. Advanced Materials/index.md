@@ -29,7 +29,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://advanced.onlinelibrary.wiley.com/doi/epdf/10.1002/adma.201802632'
 url_code: ''
 url_dataset: ''
 url_poster: ''

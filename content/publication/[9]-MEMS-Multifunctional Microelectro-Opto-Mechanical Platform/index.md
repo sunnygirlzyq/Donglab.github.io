@@ -38,7 +38,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'content\publication\[9]-MEMS-Multifunctional Microelectro-Opto-Mechanical Platform Based on Phase-Transition Materials\wang-et-al-2018-multifunctional-microelectro-opto-mechanical-platform-based-on-phase-transition-materials.pdf'
+url_pdf: 'https://pubs.acs.org/doi/full/10.1021/acs.nanolett.7b04477'
 url_code: ''
 url_dataset: ''
 url_poster: ''

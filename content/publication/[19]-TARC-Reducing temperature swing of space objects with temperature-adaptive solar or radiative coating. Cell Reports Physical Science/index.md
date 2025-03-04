@@ -37,7 +37,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'content\publication\[19]-TARC-Reducing temperature swing of space objects with temperature-adaptive solar or radiative coating. Cell Reports Physical Science\journal-paper.pdf'
+url_pdf: 'https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(22)00360-5'
 url_code: ''
 url_dataset: ''
 url_poster: ''

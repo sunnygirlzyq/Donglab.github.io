@@ -37,7 +37,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'content\publication\[13]-TARC-Tunable Analog Thermal Material. Nature Communications\s41467-020-19909-0.pdf'
+url_pdf: 'https://www.nature.com/articles/s41467-020-19909-0'
 url_code: ''
 url_dataset: ''
 url_poster: ''

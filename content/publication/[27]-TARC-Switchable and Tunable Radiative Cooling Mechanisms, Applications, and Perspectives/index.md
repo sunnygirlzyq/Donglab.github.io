@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'content\publication\TARC-Switchable and Tunable Radiative Cooling Mechanisms, Applications, and Perspectives\zhao-et-al-2024-switchable-and-tunable-radiative-cooling-mechanisms-applications-and-perspectives.pdf'
+url_pdf: 'https://pubs.acs.org/doi/epdf/10.1021/acsnano.4c05929?ref=article_openPDF'
 url_code: ''
 url_dataset: ''
 url_poster: ''

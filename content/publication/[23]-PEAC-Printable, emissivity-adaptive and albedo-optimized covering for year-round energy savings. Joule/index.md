@@ -47,7 +47,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'content\publication\[23]-PEAC-Printable, emissivity-adaptive and albedo-optimized covering for year-round energy savings. Joule\s41467-023-41068-1.pdf'
+url_pdf: 'https://www.cell.com/action/showPdf?pii=S2542-4351%2823%2900401-4'
 url_code: ''
 url_dataset: ''
 url_poster: ''

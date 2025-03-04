@@ -41,7 +41,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'content\publication\[24]-TBPC-Twisted moiré photonic crystal enabled optical vortex generation through bound states in the continuum. Nature Communications\s41467-023-41068-1.pdf'
+url_pdf: 'https://www.nature.com/articles/s41467-023-41068-1'
 url_code: ''
 url_dataset: ''
 url_poster: ''

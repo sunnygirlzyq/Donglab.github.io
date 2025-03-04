@@ -41,7 +41,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'content\publication\[4]-Phottonics-Stress Compensation for Arbitrary Curvature Control in Vanadium Dioxide Phase Transition Actuators\Kaichen-APL2016.pdf'
+url_pdf: 'https://opg.optica.org/view_article.cfm?pdfKey=13e99e22-7131-4006-9c68ed3cd877e050_385445'
 url_code: ''
 url_dataset: ''
 url_poster: ''

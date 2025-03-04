@@ -39,7 +39,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'content\publication\[12]-TARC-A Thermal Radiation Modulation Platform by Emissivity Engineering with Graded Metal-Insulator Transition\Advanced Materials - 2020 - Tang - A Thermal Radiation Modulation Platform by Emissivity Engineering with Graded Metal.pdf'
+url_pdf: 'https://advanced.onlinelibrary.wiley.com/doi/epdf/10.1002/adma.201907071'
 url_code: ''
 url[12]-TARC-A Thermal Radiation Modulation Platform by Emissivity Engineering with Graded Metal-Insulator Transition_dataset: ''
 url_poster: ''

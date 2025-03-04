@@ -51,7 +51,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'content\publication\MIR-Spectrometer\journal-paper.pdf'
+url_pdf: 'https://opg.optica.org/directpdfaccess/9e7285d1-a112-4b38-b8548c130d7fb7cd_529147/oe-31-9-14367.pdf?da=1&id=529147&seq=0&mobile=no'
 url_code: ''
 url_dataset: ''
 url_poster: ''

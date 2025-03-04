@@ -42,7 +42,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10928/1092806/Ultraviolet-metasurface-based-on-highly-scattering-silicon-antennas-Conference-Presentation/10.1117/12.2508169.full'
 url_code: ''
 url_dataset: ''
 url_poster: ''

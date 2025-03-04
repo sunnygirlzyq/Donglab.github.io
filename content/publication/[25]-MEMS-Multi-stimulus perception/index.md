@@ -52,7 +52,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'content\publication\MEMS-Multi-stimulus perception\sciadv.adp5215.pdf'
+url_pdf: 'https://www.science.org/doi/epdf/10.1126/sciadv.adp5215'
 url_code: ''
 url_dataset: ''
 url_poster: ''

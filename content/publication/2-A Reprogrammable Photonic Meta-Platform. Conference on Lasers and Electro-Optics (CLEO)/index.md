@@ -47,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'content\publication\2-A Reprogrammable Photonic Meta-Platform. Conference on Lasers and Electro-Optics (CLEO)\conference-paper.pdf'
+url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8426814'
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -48,7 +48,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'content\publication\[18]-TARC-Room-temperature skyrmion lattice in a layered magnet (Fe0.5Co0.5)5GeTe2. Science Advances\sciadv.abm7103.pdf'
+url_pdf: 'https://www.science.org/doi/epdf/10.1126/sciadv.abm7103'
 url_code: ''
 url_dataset: ''
 url_poster: ''

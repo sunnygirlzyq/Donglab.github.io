@@ -56,7 +56,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'content\publication\MEMS-Wafer-Scale Transfer and Integration of Tungsten-Doped Vanadium Dioxide Films\li-et-al-2025-wafer-scale-transfer-and-integration-of-tungsten-doped-vanadium-dioxide-films.pdf'
+url_pdf: 'https://pubs.acs.org/doi/epdf/10.1021/acsnano.4c15059?ref=article_openPDF'
 url_code: ''
 url_dataset: ''
 url_poster: ''

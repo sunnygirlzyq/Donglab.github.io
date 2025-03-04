@@ -44,7 +44,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'content\publication\[16]-TARC- Temperature-adaptive radiative coating for all-season household thermal regulation. Science\science.abf7136.pdf'
+url_pdf: 'https://www.science.org/doi/epdf/10.1126/science.abf7136'
 url_code: ''
 url_dataset: ''
 url_poster: ''
