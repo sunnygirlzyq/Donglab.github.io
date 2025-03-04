@@ -1,5 +1,5 @@
 ---
-title: "Enhancing Modulation of Thermal Conduction in Vanadium Dioxide Thin Film by Nanostructured Nanogaps. Scientific Reports"
+title: "Enhancing Modulation of Thermal Conduction in Vanadium Dioxide Thin Film by Nanostructured Nanogaps."
 authors:
 - Hwan Sung Choe
 - Joonki Suh
@@ -23,7 +23,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Scientific Reports*"
+publication: "*Scientific Reports (2017)*"
 publication_short: ""
 
 abstract: ''

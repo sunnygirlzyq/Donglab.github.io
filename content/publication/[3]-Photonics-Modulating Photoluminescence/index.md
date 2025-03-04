@@ -1,5 +1,5 @@
 ---
-title: "Modulating Photoluminescence of Monolayer Molybdenum Disulfide by Metal-Insulator Phase Transition in Active Substrates. Small"
+title: "Modulating Photoluminescence of Monolayer Molybdenum Disulfide by Metal-Insulator Phase Transition in Active Substrates. "
 authors:
 - Jiwei Hou
 - Xi Wang
@@ -29,7 +29,7 @@ publishDate: "2016-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Small*"
+publication: "*Small (2016)*"
 publication_short: ""
 
 abstract: ''

@@ -38,7 +38,7 @@ publication_types: ['article-journal']
 
 categories: ['MEMS']
 # Publication name and optional abbreviated publication name.
-publication: In *ACS Nano*
+publication: "*ACS Nano*, 19, 6, 6209–6220 (2025)"
 publication_short: ''
 
 abstract: ''

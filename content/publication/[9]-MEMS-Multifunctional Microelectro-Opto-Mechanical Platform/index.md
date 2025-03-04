@@ -24,7 +24,7 @@ publishDate: "2018-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Nano Letters*"
+publication: "*Nano Letters (2018)*"
 publication_short: ""
 
 abstract: ''

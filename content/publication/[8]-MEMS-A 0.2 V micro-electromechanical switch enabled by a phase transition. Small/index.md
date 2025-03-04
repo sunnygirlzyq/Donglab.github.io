@@ -1,5 +1,5 @@
 ---
-title: "A 0.2 V micro-electromechanical switch enabled by a phase transition. Small"
+title: "A 0.2 V micro-electromechanical switch enabled by a phase transition."
 authors:
 - admin
 - Hwan Sung Choe
@@ -28,7 +28,7 @@ publishDate: "2018-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Small*"
+publication: "*Small (2018)*"
 publication_short: ""
 
 abstract: ''

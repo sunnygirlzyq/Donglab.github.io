@@ -1,5 +1,5 @@
 ---
-title: "Twisted moiré photonic crystal enabled optical vortex generation through bound states in the continuum. Nature Communications"
+title: "Twisted moiré photonic crystal enabled optical vortex generation through bound states in the continuum."
 authors:
 - Tiancheng Zhang
 - admin
@@ -26,7 +26,7 @@ publishDate: "2023-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Nature Communications*"
+publication: "*Nature Communications*,14, 6014 (2023)"
 publication_short: ""
 
 abstract: ''

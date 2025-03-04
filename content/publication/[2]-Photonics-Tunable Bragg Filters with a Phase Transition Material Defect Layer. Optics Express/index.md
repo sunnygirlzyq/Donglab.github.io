@@ -1,5 +1,5 @@
 ---
-title: "Tunable Bragg Filters with a Phase Transition Material Defect Layer. Optics Express"
+title: "Tunable Bragg Filters with a Phase Transition Material Defect Layer."
 authors:
 - Xi Wang,
 - Zilun Gong,
@@ -21,7 +21,7 @@ publishDate: "2016-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Optics Express*"
+publication: "*Optics Express (2016)*"
 publication_short: ""
 
 abstract: ''

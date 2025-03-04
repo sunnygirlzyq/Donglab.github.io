@@ -1,5 +1,5 @@
 ---
-title: "A Lithography-Free and Field-Programmable Photonic Metacanvas. Advanced Materials"
+title: "A Lithography-Free and Field-Programmable Photonic Metacanvas."
 authors:
 - admin
 - Sukjoon Hong
@@ -30,7 +30,7 @@ publishDate: "2018-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Advanced Materials*"
+publication: "*Advanced Materials (2018)*"
 publication_short: ""
 
 abstract: ''

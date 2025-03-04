@@ -1,5 +1,5 @@
 ---
-title: "Vibrational Spectrum Renormalization by Enforced Coupling Across the Van der Waals Gap between MoS2 and WS2 Monolayers. Physical Review B"
+title: "Vibrational Spectrum Renormalization by Enforced Coupling Across the Van der Waals Gap between MoS2 and WS2 Monolayers."
 authors:
 - Wen Fan
 - Xi Zhu
@@ -26,7 +26,7 @@ publishDate: "2015-12-18T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Physical Review B*"
+publication: "*Physical Review B (2015)*"
 publication_short: ""
 
 abstract: ''
