@@ -10,23 +10,21 @@ sections:
       columns: '1'  # ✅ 确保整个 hero 模块是一个整体
     content:
       title: ""  # 避免默认标题
-      text: |
+      custom_html: |
         <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; width: 100%; max-width: 1100px; margin: 0 auto; text-align: center;">
 
-          <!-- 图片区域 (Logo + Intro) -->
           <div style="display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap;">
-            <!-- 左侧 Logo -->
+          
             <a href="https://www.sigs.tsinghua.edu.cn/" target="_blank">
               <img src="media/Tsinghua-SIGS-logo.png" alt="Tsinghua University Logo"
                    style="height: 100px; max-width: 100%; border-radius: 10px;">
             </a>
 
-            <!-- 右侧 Intro 图片 -->
+        
             <img src="media/Intro.png" alt="Intro Image"
                  style="height: 100px; max-width: 100%; border-radius: 10px;">
           </div>
 
-          <!-- 文字描述 -->
           <div style="margin-top: 20px; max-width: 800px;">
             <p style="font-size: 16px; line-height: 1.6;">
               We are a research group at <strong>Institute of Data and Information, Tsinghua Shenzhen International Graduate School.</strong>
