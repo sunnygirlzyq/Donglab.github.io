@@ -54,3 +54,11 @@ table {
 .hidden {
   display: none;
 }
+/* 调整 Latest News 的字体大小 */
+.small-news-text .collection-title {
+  font-size: 14px !important;  /* 你可以调整这个数值 */
+}
+
+.small-news-text .collection-item {
+  font-size: 12px !important;  /* 调整文章列表的字体 */
+}

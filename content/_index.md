@@ -36,7 +36,8 @@ sections:
     design:
       view: card
       columns: '1'
-  
+      css_class: small-news-text  # ✅ 添加自定义 CSS 类
+
   - block: markdown
     content:
       title:
@@ -79,3 +80,4 @@ sections:
     design:
       columns: '1'
 ---
+
