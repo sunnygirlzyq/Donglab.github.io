@@ -75,7 +75,7 @@ body {
 }
 
 .section-subheading {
-  font-size: 1.25rem; /* 1.25rem = 20px */
+  font-size: 1.0rem; /* 1.25rem = 20px */
 }
 
 .article-style {
@@ -91,17 +91,21 @@ body {
   font-size: 14px !important; /* 调小整体字体 */
 }
 
-/* 让 publication 相关内容字体更小 */
+/* 让整个 compact 视图字体更小 */
 .small-font {
   font-size: 14px !important;
+  line-height: 1.2;
 }
 
-.small-font .publication, 
-.small-font .publication-type, 
-.small-font .publication-authors {
-  font-size: 12px !important;
+/* 控制图片大小 */
+.article-img {
+  max-width: 200px;
+  height: auto;
+  margin-right: 10px; /* 让图片和文字之间有点间距 */
 }
 
-.small-font img {
-  max-width: 100%; /* 确保图片不会变形 */
+/* 让整个排版更紧凑 */
+.stream-item {
+  display: flex;
+  align-items: center;
 }

@@ -23,23 +23,34 @@
 {{ end }}
 
 <div class="media stream-item view-compact small-font">
+  <!-- 图片在最左侧 -->
+  <div class="media-left">
+    {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
+    {{ with $resource }}
+      {{ $image := .Resize "200x" }}  <!-- 提高清晰度，宽度200px -->
+      {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
+      <img src="{{ $image.RelPermalink }}" height="auto" width="200"
+          alt="{{ $item.Title }}" loading="lazy" class="article-img">
+    {{ end }}
+  </div>
+
   <div class="media-body">
 
     <!-- 文章标题 -->
     <div class="section-subheading article-title mb-0 mt-0">
-      <span>{{ $item.Title }}</span>
+      <span class="small-font"><strong>{{ $item.Title }}</strong></span>
     </div>
 
     <!-- 显示 publication -->
     {{ if $item.Params.publication }}
-      <div class="publication">
+      <div class="publication small-font">
         <strong>Publication:</strong> {{ $item.Params.publication | markdownify }}
       </div>
     {{ end }}
 
     <!-- 显示 publication_types -->
     {{ if $item.Params.publication_types }}
-      <div class="publication-type">
+      <div class="publication-type small-font">
         <strong>Type:</strong> 
         {{ range $index, $type := $item.Params.publication_types }}
           {{- if $index }}, {{ end }}{{ $type }}
@@ -49,12 +60,22 @@
 
     <!-- 显示摘要 -->
     {{ with $summary }}
-    <div class="article-style">
+    <div class="article-style small-font">
       {{.}}
     </div>
     {{ end }}
 
-    <div class="stream-meta article-metadata">
+    <!-- 作者部分，去掉超链接 -->
+    {{ if $item.Params.authors }}
+      <div class="article-authors small-font">
+        <strong>Authors:</strong> 
+        {{ range $index, $author := $item.Params.authors }}
+          {{- if $index }}, {{ end }}{{ $author }}
+        {{ end }}
+      </div>
+    {{ end }}
+
+    <div class="stream-meta article-metadata small-font">
       {{ if eq $item.Type "event" }}
       <div>
         <span>
@@ -66,32 +87,13 @@
         {{ end }}
       </div>
       {{ end }}
-
-      {{ if and $show_authors_only $item.Params.authors }}
-      <div>
-        {{ partial "page_metadata_authors" $item }}
-      </div>
-      {{ else if not $show_authors_only }}
-        {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
-      {{ end }}
     </div>
 
     {{ if $has_attachments }}
-    <div class="btn-links">
+    <div class="btn-links small-font">
       <span>{{ partial "page_links" (dict "page" $item "is_list" 1) }}</span>
     </div>
     {{ end }}
 
-  </div>
-
-  <!-- 文章图片 -->
-  <div class="ml-3">
-    {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
-    {{ with $resource }}
-      {{ $image := .Resize "150x" }}
-      {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
-      <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
-          alt="{{ $item.Title }}" loading="lazy">
-    {{end}}
   </div>
 </div>
