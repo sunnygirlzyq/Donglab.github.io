@@ -22,22 +22,22 @@
   {{ $summary = $item.Summary }}
 {{ end }}
 
-<div class="media stream-item view-compact">
+<div class="media stream-item view-compact" style="font-size: 14px; line-height: 1.6;">
   <div class="media-body">
 
-    <!-- 移除文章标题的超链接 -->
-    <div class="section-subheading article-title mb-0 mt-0">
+    <!-- 移除文章标题的超链接，并调整字体大小 -->
+    <div class="section-subheading article-title mb-0 mt-0" style="font-size: 16px; font-weight: bold;">
       <span>{{ $item.Title }}</span>
     </div>
 
-    <!-- 移除摘要的超链接 -->
+    <!-- 移除摘要的超链接，并调整字体大小 -->
     {{ with $summary }}
-    <div class="article-style">
+    <div class="article-style" style="font-size: 14px; color: #333;">
       {{.}}
     </div>
     {{ end }}
 
-    <div class="stream-meta article-metadata">
+    <div class="stream-meta article-metadata" style="font-size: 12px; color: #666;">
       {{ if eq $item.Type "event" }}
       <div>
         <span>
@@ -62,20 +62,20 @@
     {{ if $has_attachments }}
     <div class="btn-links">
       <!-- 这里原本会有附件的超链接，已去掉 -->
-      <span>{{ partial "page_links" (dict "page" $item "is_list" 1) }}</span>
+      <span style="font-size: 12px;">{{ partial "page_links" (dict "page" $item "is_list" 1) }}</span>
     </div>
     {{ end }}
 
   </div>
 
-  <!-- 移除文章图片的超链接 -->
+  <!-- 移除文章图片的超链接，并调整图片的显示比例 -->
   <div class="ml-3">
     {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
     {{ with $resource }}
       {{ $image := .Resize "150x" }}
       {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
       <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
-          alt="{{ $item.Title }}" loading="lazy">
+          alt="{{ $item.Title }}" loading="lazy" style="max-width: 100%; height: auto;">
     {{end}}
   </div>
 </div>
