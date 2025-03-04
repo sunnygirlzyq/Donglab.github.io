@@ -14,7 +14,7 @@ sections:
       text: |
           <div style="text-align: center;">
             <a href="https://www.sigs.tsinghua.edu.cn/" target="_blank">
-              <img src="media/Tsinghua-SIGS-logo.png" alt="Tsinghua University Logo" width="100" height="30">
+              <img src="media/Tsinghua-SIGS-logo.png" alt="Tsinghua University Logo" width="150" height="50">
             </a>
           </div>
           <!-- 文字描述 -->
