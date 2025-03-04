@@ -38,26 +38,6 @@ sections:
       columns: '1'
       css_class: small-news-text  # ✅ 添加自定义 CSS 类
 
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: K.Dong&J.Li.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['14px', '0', '14px', '0']
-      css_class: fullscreen
-
   - block: collection
     content:
       title: Latest Preprints
