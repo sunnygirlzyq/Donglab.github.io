@@ -2,7 +2,7 @@
 title: Our Research
 
 # Listing view
-view: compact
+view: compact_right
 
 # 确保 Hugo 解析所有子页面
 content:
