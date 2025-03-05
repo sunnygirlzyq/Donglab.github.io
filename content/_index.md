@@ -31,9 +31,7 @@ sections:
               </p>
             </div>
           </div>
-          <div style="flex: 1;">
-            <img src="media/Intro.png" alt="Intro Image" style="width: 100%; height: auto;">
-          </div>
+        
         </div>
 
   - block: collection
